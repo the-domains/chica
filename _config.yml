@@ -21,7 +21,7 @@ author:
   name: Vanessa Smith
   url: chica.io
 logo: null
-name: hicaC
+name: CHICA
 navigation:
   - name: Musika
     id: f75f27a8-a2db-4f0c-bc66-2c57a57bcdbd
@@ -47,6 +47,6 @@ collections:
       path: /rss.xml
       format: rss
       number: 10
-title: Transforming the Narrative of Today's Latinx
+title: Transforming the Narrative of Latinx
 description: CHICA
 purpose: []
