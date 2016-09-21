@@ -7,17 +7,17 @@ collections:
       number: 15
       paginate: true
       navigable: true
+    permalink:
+      path: '/:title/'
     feed:
       path: /rss.xml
       format: rss
       number: 10
-    permalink:
-      path: '/:title/'
 description: CHICA
 color:
-  saturation: 0.7126746
+  saturation: 1
   brandStrength: 0.9869806782808155
-  lightness: 0.5966703
+  lightness: 0.4924812
   brandColors:
     - '#000000'
     - '#333333'
@@ -48,5 +48,5 @@ opengraph:
     https://the-grid-user-content.s3-us-west-2.amazonaws.com/3b37b3cd-17aa-443e-baa6-e15c394205ee.jpg
   appId: chicamag
 logo: null
-typography_spectrum: 0.5598924967925996
+typography_spectrum: 0.09183671
 layout_spectrum: 1
