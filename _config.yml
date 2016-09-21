@@ -1,19 +1,4 @@
-title: Transforming the Narrative of Latinx
-github: true
-purpose: []
-collections:
-  - index:
-      path: /
-      number: 15
-      paginate: true
-      navigable: true
-    permalink:
-      path: '/:title/'
-    feed:
-      path: /rss.xml
-      format: rss
-      number: 10
-description: CHICA
+typography_spectrum: 0.09398496
 color:
   saturation: 1
   brandStrength: 0.5322234
@@ -25,6 +10,18 @@ color:
     - '#01B0F0'
     - '#AEEE00'
   rhythmicContrast: 0.7556391
+github: true
+opengraph:
+  image: >-
+    https://the-grid-user-content.s3-us-west-2.amazonaws.com/3b37b3cd-17aa-443e-baa6-e15c394205ee.jpg
+  appId: chicamag
+layout_spectrum: 1
+author:
+  email: vanessa@chica.io
+  name: Vanessa Smith
+  url: chica.io
+logo: null
+name: CHICA
 navigation:
   - name: Musica
     id: f75f27a8-a2db-4f0c-bc66-2c57a57bcdbd
@@ -38,15 +35,18 @@ navigation:
   - name: Voces
     id: 0e36468d-e3a0-486b-8f13-7785504f7feb
     type: content
-name: CHICA
-author:
-  email: vanessa@chica.io
-  name: Vanessa Smith
-  url: chica.io
-opengraph:
-  image: >-
-    https://the-grid-user-content.s3-us-west-2.amazonaws.com/3b37b3cd-17aa-443e-baa6-e15c394205ee.jpg
-  appId: chicamag
-logo: null
-typography_spectrum: 0.09398496
-layout_spectrum: 1
+collections:
+  - index:
+      path: /
+      number: 15
+      paginate: true
+      navigable: true
+    permalink:
+      path: '/:title/'
+    feed:
+      path: /rss.xml
+      format: rss
+      number: 10
+title: Transforming the Narrative of Latinx
+description: Transforming the Narrative of Latinx
+purpose: []
