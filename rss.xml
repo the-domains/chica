@@ -4,9 +4,9 @@
         <description><![CDATA[Transforming the Narrative of Latinx]]></description>
         <link>https://thegrid.ai/chica/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Wed, 21 Sep 2016 17:23:35 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 21 Sep 2016 17:24:22 GMT</lastBuildDate>
         <atom:link href="https://thegrid.ai/chica/rss.xml" rel="self" type="application/rss+xml"/>
-        <pubDate>Wed, 21 Sep 2016 17:23:33 GMT</pubDate>
+        <pubDate>Wed, 21 Sep 2016 17:24:20 GMT</pubDate>
         <item>
             <title><![CDATA[Bomba Estéreo]]></title>
             <description><![CDATA[<article><h1>Bomba Estéreo</h1><p>Entrevista Exclusiva</p><img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/dbe72f8c-655f-412e-8628-03725ec25678.jpg"></article>]]></description>
@@ -36,6 +36,13 @@
             <pubDate>Wed, 14 Sep 2016 21:54:05 GMT</pubDate>
         </item>
         <item>
+            <title><![CDATA[My hair]]></title>
+            <description><![CDATA[<article><h1>My hair</h1><p>Valeria Diaz de Leon</p><img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/7bea45fb-86cd-4416-bf05-b9eb7f076821.jpg"></article>]]></description>
+            <link>https://thegrid.ai/chica/i-am-my-hair/index.html</link>
+            <guid isPermaLink="false">0e36468d-e3a0-486b-8f13-7785504f7feb</guid>
+            <pubDate>Wed, 21 Sep 2016 17:24:19 GMT</pubDate>
+        </item>
+        <item>
             <title><![CDATA[Another Ecuador: La Quinta Bruja]]></title>
             <description><![CDATA[<article><h1>Another Ecuador: La Quinta Bruja</h1><p> by Bani Amor</p><img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/0cc1112f-cdb1-45d0-8a52-edbb06a240c0.jpg"></article>]]></description>
             <link>https://thegrid.ai/chica/another-ecuador-la-quinta-bruja/index.html</link>
@@ -55,13 +62,6 @@
             <link>https://thegrid.ai/chica/divina/index.html</link>
             <guid isPermaLink="false">6a79b6a5-b019-4145-a0a9-42abd2f52097</guid>
             <pubDate>Sat, 10 Sep 2016 05:04:32 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[I am my hair]]></title>
-            <description><![CDATA[<article><h1>I am my hair</h1><p>Valeria Diaz de Leon</p><img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/7bea45fb-86cd-4416-bf05-b9eb7f076821.jpg"></article>]]></description>
-            <link>https://thegrid.ai/chica/i-am-my-hair/index.html</link>
-            <guid isPermaLink="false">0e36468d-e3a0-486b-8f13-7785504f7feb</guid>
-            <pubDate>Sat, 10 Sep 2016 01:02:55 GMT</pubDate>
         </item>
     </channel>
 </rss>
