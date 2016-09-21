@@ -1,5 +1,5 @@
 ---
-datePublished: '2016-09-21T17:23:18.863Z'
+datePublished: '2016-09-21T17:23:22.244Z'
 sourcePath: _posts/2016-08-29-the-tongass-national-rain-forest.md
 inFeed: true
 isBasedOnUrl: >-
@@ -8,12 +8,12 @@ hasPage: false
 author:
   - name: Forest Service
 via: {}
-dateModified: '2016-09-21T17:23:18.106Z'
+dateModified: '2016-09-21T17:23:21.583Z'
 title: The Tongass National Rain Forest
 publisher:
   name: Vanessa Smith
 description: ''
-starred: true
+starred: false
 _type: MediaObject
 
 ---
