@@ -16,7 +16,7 @@ collections:
 description: CHICA
 color:
   saturation: 1
-  brandStrength: 1
+  brandStrength: 0.5322234
   lightness: 0.4924812
   brandColors:
     - '#000000'
