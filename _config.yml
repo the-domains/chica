@@ -7,24 +7,24 @@ collections:
       number: 15
       paginate: true
       navigable: true
+    permalink:
+      path: '/:title/'
     feed:
       path: /rss.xml
       format: rss
       number: 10
-    permalink:
-      path: '/:title/'
 description: Transforming the Narrative of Latinx
 color:
   saturation: 1
   brandStrength: 0.8340493
-  lightness: 0.4924812
+  lightness: 0.255102
   brandColors:
     - '#000000'
     - '#333333'
     - '#FF358B'
     - '#01B0F0'
     - '#AEEE00'
-  rhythmicContrast: 0.7556391
+  rhythmicContrast: 1
 navigation:
   - name: Musica
     id: f75f27a8-a2db-4f0c-bc66-2c57a57bcdbd
@@ -49,4 +49,4 @@ opengraph:
   appId: chicamag
 logo: null
 typography_spectrum: 0.05699999793432653
-layout_spectrum: 0.3163265
+layout_spectrum: 1
