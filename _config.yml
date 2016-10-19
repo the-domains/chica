@@ -19,7 +19,7 @@ layout_spectrum: 0.06928033
 author:
   email: vanessa@chica.io
   name: Vanessa Smith
-  url: chica.io
+  url: ''
 logo: null
 name: CHICA
 navigation:
@@ -48,5 +48,6 @@ collections:
     permalink:
       path: '/:title/'
 title: Transforming the Narrative of Latinx
+content: []
 description: Transforming the Narrative of Latinx
 purpose: []
