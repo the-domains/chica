@@ -1,17 +1,17 @@
 ---
 inFeed: true
 description: César Vargas - Founder of UPLIFTT….
-dateModified: '2016-12-31T02:06:16.570Z'
-datePublished: '2016-12-31T02:06:17.719Z'
+dateModified: '2016-12-31T02:10:00.368Z'
+datePublished: '2016-12-31T02:10:02.035Z'
 title: Exclusive Interview with @AyeYoSmiley
 author: []
 publisher: {}
 via: {}
 hasPage: true
-starred: false
-datePublishedOriginal: '2016-12-31T02:06:14.362Z'
 sourcePath: >-
   _posts/2016-12-31-best-latina-rapper-alive-exclusive-interview-with-ayeyosmi.md
+starred: false
+datePublishedOriginal: '2016-12-31T02:06:14.362Z'
 url: best-latina-rapper-alive-exclusive-interview-with-ayeyosmi/index.html
 _type: Article
 
