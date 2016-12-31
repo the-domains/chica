@@ -1,15 +1,15 @@
 ---
 inFeed: true
 description: César Vargas - Founder of UPLIFTT….
-dateModified: '2016-12-31T02:05:24.294Z'
-datePublished: '2016-12-31T02:05:25.451Z'
+dateModified: '2016-12-31T02:06:13.344Z'
+datePublished: '2016-12-31T02:06:14.713Z'
 title: Exclusive Interview with @AyeYoSmiley
 author: []
 publisher: {}
 via: {}
 hasPage: true
 starred: false
-datePublishedOriginal: '2016-12-31T02:05:23.489Z'
+datePublishedOriginal: '2016-12-31T02:06:11.918Z'
 sourcePath: >-
   _posts/2016-12-31-best-latina-rapper-alive-exclusive-interview-with-ayeyosmi.md
 url: best-latina-rapper-alive-exclusive-interview-with-ayeyosmi/index.html
@@ -60,8 +60,6 @@ My family is very supportive with my music career. However, they're still adjust
 
 I draw inspiration from absolutely everything. I'm a free spirit, and I have a huge heart that I wear on my sleeve. Most people run away from their fears or mistakes, I don't. I endure it all, and I embrace it whether it is good or bad. And I believe that's what shapes me into the person that I am. Open-minded, forgiving, and able to recognize when I'm wrong. It sure feels like I lived through many lifetimes because I can feel myself grow into the flower child that I am. With all my experiences and feelings, I express that through my music.
 
-Photo by Joe Medina/ Street Science
-
 #### AYS: There's a huge difference between being a good lyricist and being a rapper who can make club bangers. Something people would want to listen to and bop their heads to. You are able to do and be both. Something a lot of lyricists and hit makers would kill for. Because one has the street _cred_, but not the wide appeal, and the other has the wide appeal but lacks the street _cred_, for lack of a better term. How do you manage to marry the lyricist and the hit maker?
 
 I think it has a lot to do with listening to different genres of music while growing up. But I am also a well-rounded person, a natural shape shifter. I have different kinds of moods, I embrace all of those and it reflects in my music. The way I love learning about myself and expanding my mind, is the way I feel about music. I don't ever want to limit myself. But I also feel there's a time and place for everything, there is a time for the turn up, and there is a time for the real.
@@ -70,11 +68,11 @@ I think it has a lot to do with listening to different genres of music while gro
 
 Kendrick Lamar because I "won't kill his vibe!" Ha ha. Kendrick is dope, I dig his wave. Definitely TLC! They were a huge influence into why I started making music. But also Drake, Tinashe, Jhene Aiko, and Logic! The list goes on.
 
-#### Did any record label or rapper reach out to you to sign you? If not, what in the world are they waiting for?!
+#### _Did any record label or rapper reach out to you to sign you? If not, what in the world are they waiting for?!_
 
 No, nothing so far. But it's okay because I know they're watching. I believe there's no such thing as bad timing. It will happen when the time is right. Just wait!
 
-#### Are you touring anytime soon? Where can people hear your music?
+#### _Are you touring anytime soon? Where can people hear your music?_
 
 You can find all you need to know at [AyeYoSmiley.com][1]. Or hit up my soundcloud/youtube.com [@AyeYoSmiley][2]
 
