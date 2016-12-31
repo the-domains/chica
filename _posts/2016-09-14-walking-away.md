@@ -1,17 +1,16 @@
 ---
-datePublished: '2016-12-31T02:10:02.046Z'
+datePublished: '2016-12-31T02:22:25.858Z'
 sourcePath: _posts/2016-09-14-walking-away.md
-inFeed: false
-hasPage: true
+inFeed: true
+hasPage: false
 author: []
 via: {}
-dateModified: '2016-12-31T02:10:00.368Z'
+dateModified: '2016-12-31T02:22:25.115Z'
 title: Walking Away
 publisher: {}
 description: by Prisca Dorcas Mojica Rodriguez
 starred: false
 datePublishedOriginal: '2016-09-21T17:22:40.014Z'
-url: walking-away/index.html
 _type: Blurb
 
 ---
@@ -20,6 +19,8 @@ _type: Blurb
 # Walking Away
 
 _by Prisca Dorcas Mojica Rodriguez_
+
+---
 
 The day after I graduated with mi maestría de Vanderbilt University, I packed my bags y regresé a la casa de mi mamá. The day in which I became what Amerikkka refers to as a 'respectable' immigrant, I left that world behind for the comfort of my mami's arms and homemade Nicaraguan food. The day that was supposed to start the rest of my life, I said: I need a break.
 
