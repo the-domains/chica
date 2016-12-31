@@ -1,15 +1,15 @@
 ---
 inFeed: true
 description: César Vargas - Founder of UPLIFTT….
-dateModified: '2016-12-31T02:04:09.212Z'
-datePublished: '2016-12-31T02:04:09.998Z'
+dateModified: '2016-12-31T02:05:24.294Z'
+datePublished: '2016-12-31T02:05:25.451Z'
 title: Exclusive Interview with @AyeYoSmiley
 author: []
 publisher: {}
 via: {}
 hasPage: true
 starred: false
-datePublishedOriginal: '2016-12-31T02:04:07.369Z'
+datePublishedOriginal: '2016-12-31T02:05:23.489Z'
 sourcePath: >-
   _posts/2016-12-31-best-latina-rapper-alive-exclusive-interview-with-ayeyosmi.md
 url: best-latina-rapper-alive-exclusive-interview-with-ayeyosmi/index.html
@@ -26,6 +26,8 @@ _César Vargas - Founder of UPLIFTT...._
 ---
 
 I make it my business to uplift and profile the best up-and-coming Latinx talent in the arts; always on the lookout for those who have yet to be discovered. I figured what's the point of covering Latino celebrities that have been validated by mainstream already? They don't _need _the exposure. I discovered Aye Yo Smiley on my Twitter stream, surprised I had not heard of her before, considering myself an avid fan of hardcore hip-hop and tuned in to know and not-so-well-known artists. Recently named by [Cosmopolitan][0] as one of the eight Latina rappers whose music you have to hear, Aye Yo Smiley's introduction into the world was only a matter of time. And making a bold and assertive statement, I'll put it out there and say that Aye Yo Smiley captures the top ten female, of all races and ethnicities, emcees alive. And as a Latina rapper, mark my words: _she's the best one in the game right now_. Hands down. No contest. If she'd go by any other alias it should be _crème de la crème._
+
+<iframe src="https://the-grid.github.io/ed-userhtml/?g=eJx9jkFrwkAQhe_-imEP3poNWK1tNwse0ipYAlZaclyTibt010k3q6H-ehOFCh68vW-Y9_iEqbxyCI0vEqZDqJsXzmur_tBHB-OQooIcP5gSiU_j-Hkcj58YtKYMOmGTx5iBRrPVIWGjSQfnsQ35En3COm5x82OCspbaam9tU3jEHTg63p5uWAp-EZMDUUuhQHusroJXs38nOctTyDP4_Fgs0xweYPi7p_D6Pc9msJ6nq_TCgivZWZKDO6PbyljXMPkOb304d2h3p8HkVx_7x0jwWg5OpoNxng" height="244" style=""></iframe>
 
 Small taste of Aye Yo Smiley's many styles (feat. Brain Rapp & JDVBBS):
 
