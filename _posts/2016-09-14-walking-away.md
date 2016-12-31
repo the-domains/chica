@@ -1,15 +1,16 @@
 ---
-datePublished: '2016-09-21T17:22:40.014Z'
+datePublished: '2016-12-31T02:10:02.046Z'
 sourcePath: _posts/2016-09-14-walking-away.md
 inFeed: false
 hasPage: true
 author: []
 via: {}
-dateModified: '2016-09-21T17:22:39.565Z'
+dateModified: '2016-12-31T02:10:00.368Z'
 title: Walking Away
 publisher: {}
 description: by Prisca Dorcas Mojica Rodriguez
 starred: false
+datePublishedOriginal: '2016-09-21T17:22:40.014Z'
 url: walking-away/index.html
 _type: Blurb
 
