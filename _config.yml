@@ -1,21 +1,21 @@
-typography_spectrum: 0.4653642059625634
+layout_spectrum: 0.4094088469793338
+typography_spectrum: 0.7896668158980584
 color:
-  saturation: 0.8338228041450908
-  brandStrength: 0.2978076966116112
-  lightness: 0.10345182843681536
+  saturation: 0.6160200695441759
+  brandStrength: 0.4224761446604118
+  lightness: 1
   brandColors:
     - '#000000'
     - '#333333'
     - '#FF358B'
     - '#01B0F0'
     - '#AEEE00'
-  rhythmicContrast: 0.5055508623268492
+  rhythmicContrast: 0.6723366721038071
 github: true
 opengraph:
   image: >-
     https://the-grid-user-content.s3-us-west-2.amazonaws.com/3b37b3cd-17aa-443e-baa6-e15c394205ee.jpg
   appId: chicamag
-layout_spectrum: 0.6479913556409796
 author:
   email: vanessa@chica.io
   name: Vanessa Smith
