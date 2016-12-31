@@ -8,12 +8,12 @@ collections:
       number: 15
       paginate: true
       navigable: true
+    permalink:
+      path: '/:title/'
     feed:
       path: /rss.xml
       format: rss
       number: 10
-    permalink:
-      path: '/:title/'
 description: Transforming the Narrative of Latinx
 color:
   saturation: 0.6160200695441759
@@ -53,4 +53,4 @@ opengraph:
   appId: chicamag
 logo: null
 typography_spectrum: 0.0925926
-layout_spectrum: 0.4094088469793338
+layout_spectrum: 0.9934289
