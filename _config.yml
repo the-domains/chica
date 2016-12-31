@@ -23,6 +23,9 @@ author:
 logo: null
 name: CHICA
 navigation:
+  - name: Exclusive Interview with @AyeYoSmiley
+    id: f8c3d3f3-5545-452b-929b-c0653e0af85f
+    type: content
   - name: Musica
     id: f75f27a8-a2db-4f0c-bc66-2c57a57bcdbd
     type: content
@@ -34,9 +37,6 @@ navigation:
     type: content
   - name: Voces
     id: 0e36468d-e3a0-486b-8f13-7785504f7feb
-    type: content
-  - name: Exclusive Interview with @AyeYoSmiley
-    id: f8c3d3f3-5545-452b-929b-c0653e0af85f
     type: content
 collections:
   - index:
