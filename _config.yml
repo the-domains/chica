@@ -1,3 +1,16 @@
+layout_spectrum: 0.6479913556409796
+typography_spectrum: 0.4653642059625634
+color:
+  saturation: 0.8338228041450908
+  brandStrength: 0.2978076966116112
+  lightness: 0.10345182843681536
+  brandColors:
+    - '#000000'
+    - '#333333'
+    - '#FF358B'
+    - '#01B0F0'
+    - '#AEEE00'
+  rhythmicContrast: 0.5055508623268492
 title: Transforming the Narrative of Latinx
 content: []
 github: true
@@ -15,17 +28,6 @@ collections:
       format: rss
       number: 10
 description: Transforming the Narrative of Latinx
-color:
-  saturation: 1
-  brandStrength: 1
-  lightness: 0.255102
-  brandColors:
-    - '#000000'
-    - '#333333'
-    - '#FF358B'
-    - '#01B0F0'
-    - '#AEEE00'
-  rhythmicContrast: 1
 navigation:
   - name: Musica
     id: f75f27a8-a2db-4f0c-bc66-2c57a57bcdbd
@@ -49,5 +51,3 @@ opengraph:
     https://the-grid-user-content.s3-us-west-2.amazonaws.com/3b37b3cd-17aa-443e-baa6-e15c394205ee.jpg
   appId: chicamag
 logo: null
-typography_spectrum: 0.05699999793432653
-layout_spectrum: 0.06928033
