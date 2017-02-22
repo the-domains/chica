@@ -11,7 +11,7 @@ color:
     - '#01B0F0'
     - '#AEEE00'
   rhythmicContrast: 0.43128932767732087
-title: Transforming the Narrative of Latinx
+title: 'Chicx '
 content:
   - id: !<tag:yaml.org,2002:js/undefined> ''
     type: image
@@ -30,7 +30,6 @@ content:
         domain: s3-us-west-2.amazonaws.com
       keywords: []
       description: ''
-      inLanguage: !<tag:yaml.org,2002:js/undefined> ''
       app_links: []
       '@context': 'http://schema.org'
       '@type': MediaObject
