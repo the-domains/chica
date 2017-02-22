@@ -4,19 +4,17 @@ description: >-
   La red social Weibo, equivalente chino a Twitter, ha bloqueado la cuenta de
   una conocida organización feminista, Voces Feministas, según denunciaron hoy
   varias activistas a través de sus perfiles en redes sociales.
-dateModified: '2017-02-22T21:07:53.046Z'
-datePublished: '2017-02-22T21:07:53.440Z'
+dateModified: '2017-02-22T21:07:40.754Z'
+datePublished: '2017-02-22T21:07:41.613Z'
 title: 'Weibo, el Twitter chino, bloquea la cuenta de Voces Feministas'
 author: []
 publisher: {}
 via: {}
-sourcePath: >-
-  _posts/2017-02-22-weibo-el-twitter-chino-bloquea-la-cuenta-de-voces-feminist.md
-hasPage: true
 starred: false
 datePublishedOriginal: '2017-02-22T21:07:41.613Z'
-url: weibo-el-twitter-chino-bloquea-la-cuenta-de-voces-feminist/index.html
-_type: Article
+sourcePath: >-
+  _posts/2017-02-22-weibo-el-twitter-chino-bloquea-la-cuenta-de-voces-feminist.md
+_type: Blurb
 
 ---
 # Weibo, el Twitter chino, bloquea la cuenta de Voces Feministas
