@@ -51,7 +51,7 @@ collections:
       path: /rss.xml
       format: rss
       number: 10
-description: Transforming the Narrative of Latinx
+description: The Narrative of Latinxs
 navigation:
   - name: Musica
     id: f75f27a8-a2db-4f0c-bc66-2c57a57bcdbd
