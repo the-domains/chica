@@ -6,21 +6,22 @@ description: >-
   jardines verticales, que cultivarán sus alimentos y obtendrán electricidad a
   partir del sol y el viento, según las tendencias arquitectúnicas de
   vanguardia.
-dateModified: '2017-02-23T18:39:06.489Z'
-datePublished: '2017-02-23T18:39:06.936Z'
+dateModified: '2017-02-23T22:26:48.012Z'
+datePublished: '2017-02-23T22:26:48.687Z'
 title: Barrios Verdes
 author: []
 publisher:
   name: EFE
 via: {}
 hasPage: true
+sourcePath: _posts/2017-02-23-barrios-verdes.md
 starred: false
 datePublishedOriginal: '2017-02-23T18:39:06.936Z'
-sourcePath: _posts/2017-02-23-barrios-verdes.md
 url: barrios-verdes/index.html
 _type: Article
 
 ---
+### **Barrios Verdes**
 ![Una de las estructuras ecológicas que irán en el centro del nuevo barrio verde proyectado en Bruselas. Infografía facilitada por Vincent Callebaut Architectures, Paris
 
 ](https://the-grid-user-content.s3-us-west-2.amazonaws.com/881ac14f-b80e-46f6-b0df-2a8f8187e576.jpg)
@@ -53,7 +54,7 @@ Este arquitecto ha planificado convertir el enorme complejo de almacenes y despa
 Consultado por Efe acerca de en qué otras ciudades podría aplicarse este concepto, Callebaut responde desde sus oficinas en Paris (Francia) que este proyecto esté pensado sobre todo para las ciudades europeas, que se enfrentan al reto de transformar su patrimonio histórico para asegurar su transición energética, social y económica hacia una vida urbana postcarbono, circular e interdependiente.
 ![Así quedarán los edificios con jardines verticales y huertos
 urbanos del nuevo proyecto para un viejo barrio de Bruselas.Infografía
-Vincent Callebaut Architectures, Paris](https://the-grid-user-content.s3-us-west-2.amazonaws.com/9ad35b41-b855-4a7c-a329-d25789d9387b.jpg)
+Vincent Callebaut Architectures, Paris](https://imgflo.herokuapp.com/graph/2b2431f8e7ba7b0/a5a517a773d978b7805ec1de8e569676/croprotate.jpg?cropheight=2927&cropwidth=4134&degrees=0&input=https%3A%2F%2Fthe-grid-user-content.s3-us-west-2.amazonaws.com%2F9ad35b41-b855-4a7c-a329-d25789d9387b.jpg&x=0&y=0)
 
 CONCEPTO ARQUITECTONICO QUE ANTICIPA EL FUTURO.
 
@@ -61,7 +62,7 @@ Este arquitecto asegura que con su proyecto actúa como un pensador hacia adelan
 
 Su propuesta busca ampliar los límites mentales y pensar fuera de la caja de lo habitual, desafiando algunas antiguas creencias de nuestros predecesores y tomadores de decisiones, en dirección a un avance de la sociedad y de nuestra forma de vida, explica Callebaut a Efe.
 ![Cascadas verdes en el proyecto de nuevo barrio verde de
-Bruselas.Infografía Vincent Callebaut Architectures, Paris](https://imgflo.herokuapp.com/graph/2b2431f8e7ba7b0/3ea697ace20fb5b5a197cf9547c0b0b1/croprotate.jpg?cropheight=2927&cropwidth=4134&degrees=0&input=https%3A%2F%2Fthe-grid-user-content.s3-us-west-2.amazonaws.com%2Fa17f6b93-a1c7-42e3-8ebd-9f2ef7e58df6.jpg&x=0&y=0)
+Bruselas.Infografía Vincent Callebaut Architectures, Paris](https://s3-us-west-2.amazonaws.com/the-grid-img/p/3b57a3a67889764e0585ee8f7c28bd968d925f93.jpg)
 
 El complejo eTour & Taxis se construyó entre 1902 y 1907 y se utilizó en el siglo XX como un gran área de aduanas y almacenamiento, situada junto al río Senne, y las terminales de carreteras y trenes de Bruselas, explica Callebaut.
 
