@@ -4,9 +4,9 @@
         <description><![CDATA[Chica]]></description>
         <link>https://thegrid.ai/chica/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Thu, 09 Mar 2017 22:48:55 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 09 Mar 2017 22:52:45 GMT</lastBuildDate>
         <atom:link href="https://thegrid.ai/chica/rss.xml" rel="self" type="application/rss+xml"/>
-        <pubDate>Thu, 09 Mar 2017 22:48:54 GMT</pubDate>
+        <pubDate>Thu, 09 Mar 2017 22:52:42 GMT</pubDate>
         <item>
             <title><![CDATA[Bomba Estéreo]]></title>
             <description><![CDATA[<img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/dbe72f8c-655f-412e-8628-03725ec25678.jpg" title="Liliana &quot;Li&quot; Samuet" alt="Bomba Est&eacute;reo">,<h1>Bomba Estéreo</h1>,<p>Entrevista Exclusiva</p>,<p>Por Miriam Fernández-Soberón</p>]]></description>
@@ -65,7 +65,7 @@
         </item>
         <item>
             <title><![CDATA[No title]]></title>
-            <description><![CDATA[<article><img src="https://cdn.pixabay.com/photo/2016/05/20/20/59/facade-1405956_960_720.jpg"></article>]]></description>
+            <description><![CDATA[<img src="https://imgflo.herokuapp.com/graph/2b2431f8e7ba7b0/2ed8f80419f9e4d4c41f5acc2243eac2/noop.jpg?input=https%3A%2F%2Fcdn.pixabay.com%2Fphoto%2F2016%2F05%2F20%2F20%2F59%2Ffacade-1405956_960_720.jpg">]]></description>
             <link>https://cdn.pixabay.com/photo/2016/05/20/20/59/facade-1405956_960_720.jpg</link>
             <guid isPermaLink="false">63ab40e5-4bf6-40eb-a936-5f8df3cdc102</guid>
             <pubDate>Thu, 09 Mar 2017 19:28:03 GMT</pubDate>
