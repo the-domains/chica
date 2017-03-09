@@ -1,16 +1,16 @@
-layout_spectrum: 0.7385699048036212
-typography_spectrum: 1
+layout_spectrum: 0.394768437060463
+typography_spectrum: 0.17329399181271693
 color:
-  saturation: 0.5096970196988544
-  brandStrength: 0.5233311667266569
-  lightness: 0.3258195558999029
+  saturation: 0.8329952445846641
+  brandStrength: 0.3674536238340569
+  lightness: 0.25984712979193814
   brandColors:
     - '#000000'
     - '#333333'
     - '#FF358B'
     - '#01B0F0'
     - '#AEEE00'
-  rhythmicContrast: 0.43128932767732087
+  rhythmicContrast: 0.43352986456623466
 title: Chica
 content:
   - id: !<tag:yaml.org,2002:js/undefined> ''
