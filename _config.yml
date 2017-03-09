@@ -54,7 +54,6 @@ content:
         domain: the-grid-user-content.s3-us-west-2.amazonaws.com
       keywords: []
       description: ''
-      inLanguage: !<tag:yaml.org,2002:js/undefined> ''
       app_links: []
       '@context': 'http://schema.org'
       '@type': MediaObject
@@ -76,7 +75,7 @@ collections:
       path: /rss.xml
       format: rss
       number: 10
-description: The Narrative of Latinxs
+description: Transforming the Narrative
 navigation:
   - name: Musica
     id: f75f27a8-a2db-4f0c-bc66-2c57a57bcdbd
