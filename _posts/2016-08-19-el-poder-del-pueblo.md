@@ -1,11 +1,11 @@
 ---
-datePublished: '2016-12-31T02:10:02.268Z'
+datePublished: '2017-03-09T22:53:40.509Z'
 sourcePath: _posts/2016-08-19-el-poder-del-pueblo.md
 inFeed: true
 hasPage: true
 author: []
 via: {}
-dateModified: '2016-12-31T02:10:00.368Z'
+dateModified: '2017-03-09T22:53:39.300Z'
 title: El Poder Del Pueblo
 id: 6d348f24-814f-4f62-96a8-5ee97b3e255c
 publisher: {}
