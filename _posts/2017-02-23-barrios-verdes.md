@@ -6,8 +6,8 @@ description: >-
   jardines verticales, que cultivarán sus alimentos y obtendrán electricidad a
   partir del sol y el viento, según las tendencias arquitectúnicas de
   vanguardia.
-dateModified: '2017-03-09T18:55:40.112Z'
-datePublished: '2017-03-09T18:55:40.915Z'
+dateModified: '2017-03-09T22:54:37.144Z'
+datePublished: '2017-03-09T22:54:37.596Z'
 title: Barrios Verdes
 author: []
 publisher:
