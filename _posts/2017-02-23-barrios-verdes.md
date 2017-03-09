@@ -1,13 +1,13 @@
 ---
-inFeed: true
+inFeed: false
 description: >-
   Los antiguos complejos comerciales e industriales de las urbes europeas se
   transformar·n en innovadores barrios ecológicos con huertas, bosques y
   jardines verticales, que cultivarán sus alimentos y obtendrán electricidad a
   partir del sol y el viento, según las tendencias arquitectúnicas de
   vanguardia.
-dateModified: '2017-02-23T22:26:48.012Z'
-datePublished: '2017-02-23T22:26:48.687Z'
+dateModified: '2017-03-09T18:55:40.112Z'
+datePublished: '2017-03-09T18:55:40.915Z'
 title: Barrios Verdes
 author: []
 publisher:
@@ -18,7 +18,7 @@ sourcePath: _posts/2017-02-23-barrios-verdes.md
 starred: false
 datePublishedOriginal: '2017-02-23T18:39:06.936Z'
 url: barrios-verdes/index.html
-_type: Article
+_type: Blurb
 
 ---
 ### **Barrios Verdes**
@@ -54,7 +54,7 @@ Este arquitecto ha planificado convertir el enorme complejo de almacenes y despa
 Consultado por Efe acerca de en qué otras ciudades podría aplicarse este concepto, Callebaut responde desde sus oficinas en Paris (Francia) que este proyecto esté pensado sobre todo para las ciudades europeas, que se enfrentan al reto de transformar su patrimonio histórico para asegurar su transición energética, social y económica hacia una vida urbana postcarbono, circular e interdependiente.
 ![Así quedarán los edificios con jardines verticales y huertos
 urbanos del nuevo proyecto para un viejo barrio de Bruselas.Infografía
-Vincent Callebaut Architectures, Paris](https://imgflo.herokuapp.com/graph/2b2431f8e7ba7b0/a5a517a773d978b7805ec1de8e569676/croprotate.jpg?cropheight=2927&cropwidth=4134&degrees=0&input=https%3A%2F%2Fthe-grid-user-content.s3-us-west-2.amazonaws.com%2F9ad35b41-b855-4a7c-a329-d25789d9387b.jpg&x=0&y=0)
+Vincent Callebaut Architectures, Paris](https://s3-us-west-2.amazonaws.com/the-grid-img/p/1f05f114c0fb077e99aace4041a43110d37638e1.jpg)
 
 CONCEPTO ARQUITECTONICO QUE ANTICIPA EL FUTURO.
 
