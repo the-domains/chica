@@ -12,34 +12,7 @@ color:
     - '#AEEE00'
   rhythmicContrast: 0.43352986456623466
 title: Chica
-content:
-  - id: !<tag:yaml.org,2002:js/undefined> ''
-    type: image
-    html: >-
-      <img
-      src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/4a7193a6eced56967aca3da6ee8f86295e64144d.jpg">
-    src: >-
-      https://s3-us-west-2.amazonaws.com/the-grid-img/p/4a7193a6eced56967aca3da6ee8f86295e64144d.jpg
-    metadata:
-      author: []
-      related: []
-      publisher:
-        url: 'https://s3-us-west-2.amazonaws.com'
-        name: .s3-us-west-2.amazonaws.com
-        favicon: null
-        domain: imgflo.herokuapp.com
-      keywords: []
-      description: ''
-      inLanguage: !<tag:yaml.org,2002:js/undefined> ''
-      app_links: []
-      '@context': 'http://schema.org'
-      '@type': MediaObject
-      isBasedOnUrl: >-
-        https://imgflo.herokuapp.com/graph/2b2431f8e7ba7b0/bcb3629bc000cb7d32a119bd10037e25/noop.jpg?input=https%3A%2F%2Fcdn.pixabay.com%2Fphoto%2F2016%2F05%2F20%2F21%2F05%2Ffacade-1405964__340.jpg
-      datePublished: null
-    title: !<tag:yaml.org,2002:js/undefined> ''
-    caption: !<tag:yaml.org,2002:js/undefined> ''
-    text: !<tag:yaml.org,2002:js/undefined> ''
+content: []
 github: true
 purpose: []
 collections:
