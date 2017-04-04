@@ -39,10 +39,10 @@ navigation:
     id: 6d348f24-814f-4f62-96a8-5ee97b3e255c
     type: content
   - name: Voces
-    id: 0e36468d-e3a0-486b-8f13-7785504f7feb
+    id: a380bc88-02d3-4dc9-8dab-ccc5bba879c2
     type: content
   - name: Voces
-    id: a380bc88-02d3-4dc9-8dab-ccc5bba879c2
+    id: 0e36468d-e3a0-486b-8f13-7785504f7feb
     type: content
 collections:
   - index:
