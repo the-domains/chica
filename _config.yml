@@ -12,55 +12,7 @@ color:
     - '#AEEE00'
   rhythmicContrast: 0.43352986456623466
 title: Chica
-content:
-  - id: !<tag:yaml.org,2002:js/undefined> ''
-    type: image
-    html: >-
-      <img
-      src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/37e51babe7085b7ad4967f13af471982f24eda39.png">
-    src: >-
-      https://s3-us-west-2.amazonaws.com/the-grid-img/p/37e51babe7085b7ad4967f13af471982f24eda39.png
-    metadata:
-      author: []
-      related: []
-      publisher:
-        url: 'https://s3-us-west-2.amazonaws.com'
-        name: .s3-us-west-2.amazonaws.com
-        favicon: null
-        domain: s3-us-west-2.amazonaws.com
-      keywords: []
-      description: ''
-      app_links: []
-      '@context': 'http://schema.org'
-      '@type': MediaObject
-      datePublished: null
-    title: !<tag:yaml.org,2002:js/undefined> ''
-    caption: !<tag:yaml.org,2002:js/undefined> ''
-    text: !<tag:yaml.org,2002:js/undefined> ''
-  - id: !<tag:yaml.org,2002:js/undefined> ''
-    type: interactive
-    html: >-
-      <iframe
-      src="https://drive.google.com/viewerng/viewer?url=https%3A//the-grid-user-content.s3-us-west-2.amazonaws.com/82cf3d2f-f99a-48f4-9a8d-5c39c0269d42.pdf&embedded=true"
-      width="600" height="780"></iframe>
-    src: !<tag:yaml.org,2002:js/undefined> ''
-    metadata:
-      author: []
-      related: []
-      publisher:
-        url: 'https://the-grid-user-content.s3-us-west-2.amazonaws.com'
-        name: The-grid-user-content
-        favicon: null
-        domain: the-grid-user-content.s3-us-west-2.amazonaws.com
-      keywords: []
-      description: ''
-      app_links: []
-      '@context': 'http://schema.org'
-      '@type': MediaObject
-      datePublished: null
-    title: !<tag:yaml.org,2002:js/undefined> ''
-    caption: !<tag:yaml.org,2002:js/undefined> ''
-    text: !<tag:yaml.org,2002:js/undefined> ''
+content: []
 github: true
 purpose: []
 collections:
