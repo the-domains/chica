@@ -1,4 +1,3 @@
-layout_spectrum: 0.7302083472451103
 typography_spectrum: 0.5294404459797252
 color:
   saturation: 0.5427669731499905
@@ -16,6 +15,7 @@ opengraph:
   image: >-
     https://the-grid-user-content.s3-us-west-2.amazonaws.com/3b37b3cd-17aa-443e-baa6-e15c394205ee.jpg
   appId: chicamag
+layout_spectrum: 0.7302083472451103
 analytics:
   google: UA-96790026-1
 author:
@@ -25,6 +25,7 @@ author:
 logo: >-
   https://the-grid-user-content.s3-us-west-2.amazonaws.com/2bedeb6c-10b5-41f9-82bf-685b7a2f3048.png
 name: CHICA
+url: 'https://chica.io'
 navigation:
   - name: Musica
     id: f75f27a8-a2db-4f0c-bc66-2c57a57bcdbd
@@ -44,6 +45,9 @@ navigation:
   - name: Voces
     id: 0e36468d-e3a0-486b-8f13-7785504f7feb
     type: content
+  - name: femenismo
+    id: 6e1b1829-c56b-4d0b-9f4d-af06e80557fa
+    type: content
 collections:
   - index:
       path: /
@@ -60,4 +64,3 @@ title: Chica
 content: []
 description: Transforming the Narrative
 purpose: []
-url: 'https://chica.io'
