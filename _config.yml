@@ -1,20 +1,4 @@
-title: Chica
-content: []
-github: true
-purpose: []
-collections:
-  - index:
-      path: /
-      number: 15
-      paginate: true
-      navigable: true
-    feed:
-      path: /rss.xml
-      format: rss
-      number: 10
-    permalink:
-      path: '/:title/'
-description: Transforming the Narrative
+typography_spectrum: 0.09139781
 color:
   saturation: 0.5427669731499905
   brandStrength: 0.9767025
@@ -26,6 +10,22 @@ color:
     - '#6BC6BF'
     - '#6D4571'
   rhythmicContrast: 0.6147438226658667
+github: true
+opengraph:
+  image: >-
+    https://the-grid-user-content.s3-us-west-2.amazonaws.com/3b37b3cd-17aa-443e-baa6-e15c394205ee.jpg
+  appId: chicamag
+layout_spectrum: 1
+analytics:
+  google: UA-96790026-1
+author:
+  email: vanessa@chica.io
+  name: Vanessa Smith
+  url: 'http://chica.io'
+logo: >-
+  https://the-grid-user-content.s3-us-west-2.amazonaws.com/2bedeb6c-10b5-41f9-82bf-685b7a2f3048.png
+name: CHICA
+url: 'https://chica.io'
 navigation:
   - name: Musica
     id: f75f27a8-a2db-4f0c-bc66-2c57a57bcdbd
@@ -45,19 +45,22 @@ navigation:
   - name: Cultura
     id: a380bc88-02d3-4dc9-8dab-ccc5bba879c2
     type: content
-analytics:
-  google: UA-96790026-1
-name: CHICA
-author:
-  email: vanessa@chica.io
-  name: Vanessa Smith
-  url: 'http://chica.io'
-opengraph:
-  image: >-
-    https://the-grid-user-content.s3-us-west-2.amazonaws.com/3b37b3cd-17aa-443e-baa6-e15c394205ee.jpg
-  appId: chicamag
-logo: >-
-  https://the-grid-user-content.s3-us-west-2.amazonaws.com/2bedeb6c-10b5-41f9-82bf-685b7a2f3048.png
-typography_spectrum: 0.09139781
-layout_spectrum: 1
-url: 'https://chica.io'
+  - name: Música
+    id: f8c3d3f3-5545-452b-929b-c0653e0af85f
+    type: content
+collections:
+  - index:
+      path: /
+      number: 15
+      paginate: true
+      navigable: true
+    feed:
+      path: /rss.xml
+      format: rss
+      number: 10
+    permalink:
+      path: '/:title/'
+title: Chica
+content: []
+description: Transforming the Narrative
+purpose: []
