@@ -1,5 +1,5 @@
 ---
-inFeed: true
+inFeed: false
 description: >-
   La derogación del artículo del Código Penal del Líbano que permitía a los
   violadores escapar a una condena de cárcel si se casaban con sus víctimas es
@@ -53,17 +53,18 @@ description: >-
   herencia, mientras que otros aspectos de derechos civiles, como la anulación
   del matrimonio o el divorcio están regidos por las comunidades religiosas y no
   por el Estado.
-dateModified: '2017-03-09T22:54:37.144Z'
-datePublished: '2017-03-09T22:54:37.511Z'
+dateModified: '2017-04-05T02:59:08.005Z'
+datePublished: '2017-04-05T02:59:08.482Z'
 title: El Líbano logra un pequeño triunfo en la lucha por derechos de las mujeres
 author: []
 publisher: {}
 via: {}
 sourcePath: >-
   _posts/2017-02-23-el-libano-logra-un-pequeno-triunfo-en-la-lucha-por-derechos.md
-hasPage: false
+hasPage: true
 starred: false
 datePublishedOriginal: '2017-02-23T02:31:45.901Z'
+url: el-libano-logra-un-pequeno-triunfo-en-la-lucha-por-derechos/index.html
 _type: Blurb
 
 ---
