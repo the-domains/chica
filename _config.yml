@@ -42,6 +42,9 @@ navigation:
   - name: femenismo
     id: 6e1b1829-c56b-4d0b-9f4d-af06e80557fa
     type: content
+  - name: Cultura
+    id: a380bc88-02d3-4dc9-8dab-ccc5bba879c2
+    type: content
 collections:
   - index:
       path: /
