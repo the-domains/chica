@@ -33,9 +33,6 @@ navigation:
   - name: Politics
     id: 6e4f76bd-1873-403a-8674-63cf4c2e976e
     type: content
-  - name: Exclusive Interview with @AyeYoSmiley
-    id: f8c3d3f3-5545-452b-929b-c0653e0af85f
-    type: content
   - name: Community
     id: 6d348f24-814f-4f62-96a8-5ee97b3e255c
     type: content
