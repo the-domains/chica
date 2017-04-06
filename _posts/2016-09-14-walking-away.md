@@ -1,5 +1,5 @@
 ---
-datePublished: '2017-04-06T21:03:31.741Z'
+datePublished: '2017-04-06T21:03:31.737Z'
 sourcePath: _posts/2016-09-14-walking-away.md
 inFeed: false
 hasPage: true
