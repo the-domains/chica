@@ -1,12 +1,12 @@
 <?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
     <channel>
-        <title><![CDATA[Chica]]></title>
-        <description><![CDATA[Chica]]></description>
+        <title><![CDATA[Transforming the Narrative]]></title>
+        <description><![CDATA[Transforming the Narrative]]></description>
         <link>http://chica.io/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Thu, 06 Apr 2017 01:52:21 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 06 Apr 2017 02:11:13 GMT</lastBuildDate>
         <atom:link href="http://chica.io/rss.xml" rel="self" type="application/rss+xml"/>
-        <pubDate>Thu, 06 Apr 2017 01:51:47 GMT</pubDate>
+        <pubDate>Thu, 06 Apr 2017 02:11:11 GMT</pubDate>
         <item>
             <title><![CDATA[Bomba Estéreo]]></title>
             <description><![CDATA[<img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/dbe72f8c-655f-412e-8628-03725ec25678.jpg" title="Liliana &quot;Li&quot; Samuet" alt="Bomba Est&eacute;reo">,<h1>Bomba Estéreo</h1>,<p>Entrevista Exclusiva</p>,<p>Por Miriam Fernández-Soberón</p>]]></description>
@@ -65,17 +65,17 @@
         </item>
         <item>
             <title><![CDATA[No title]]></title>
+            <description><![CDATA[<img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/75f73a5c-f09e-4475-8127-5364ae4e0a7d.jpg">,<p>Ciudadanos observan la escultura "The Fearless Girl" (lit. La chica valiente) del artista Kristen Visbal, que fue instalada por la empresa State Street Global Advisors frente a la famosa escultura del Toro de Wall Street, con la idea de ver a la mujer en posiciones de liderazgo, en Nueva York (Estados Unidos)</p>,<p>Residents of NYC observe "The Fearless Girl” sculpture by Kristen Visbal, an installation by State Street Global Advisors, in front of the infamous Wall Street Bull, with the idea of seeing girls in leadership positions.</p>]]></description>
+            <link>http://chica.io/ciudadanos-observan-la-escultura-the-fearless-girl-lit-l/index.html</link>
+            <guid isPermaLink="false">36c0171a-2c8a-4a15-9202-f7a10c811d15</guid>
+            <pubDate>Thu, 09 Mar 2017 18:54:43 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[No title]]></title>
             <description><![CDATA[<img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/3a0f9882-c2ee-4278-9792-f43f0c303695.jpg">]]></description>
             <link>http://chica.io/6e1b1829-c56b-4d0b-9f4d-af06e80557fa/index.html</link>
             <guid isPermaLink="false">6e1b1829-c56b-4d0b-9f4d-af06e80557fa</guid>
             <pubDate>Wed, 22 Feb 2017 21:04:17 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[No title]]></title>
-            <description><![CDATA[<img src="https://imgflo.herokuapp.com/graph/2b2431f8e7ba7b0/2ed8f80419f9e4d4c41f5acc2243eac2/noop.jpg?input=https%3A%2F%2Fcdn.pixabay.com%2Fphoto%2F2016%2F05%2F20%2F20%2F59%2Ffacade-1405956_960_720.jpg">]]></description>
-            <link>https://cdn.pixabay.com/photo/2016/05/20/20/59/facade-1405956_960_720.jpg</link>
-            <guid isPermaLink="false">63ab40e5-4bf6-40eb-a936-5f8df3cdc102</guid>
-            <pubDate>Thu, 09 Mar 2017 19:28:03 GMT</pubDate>
         </item>
     </channel>
 </rss>
