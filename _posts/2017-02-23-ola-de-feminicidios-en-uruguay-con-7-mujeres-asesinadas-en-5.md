@@ -31,8 +31,8 @@ description: >-
   días de marzo para luego remitirlo a la Cámara de Representantes, pero "sin
   perjuicio de continuar con el tratamiento" de la Ley Integral, matizaron los
   senadores, según recoge el diario local La República.
-dateModified: '2017-04-06T01:51:12.774Z'
-datePublished: '2017-04-06T01:51:14.405Z'
+dateModified: '2017-04-06T21:03:27.809Z'
+datePublished: '2017-04-06T21:03:30.297Z'
 title: Ola de feminicidios en Uruguay con 7 mujeres asesinadas en 50 días de 2017
 author: []
 publisher: {}
