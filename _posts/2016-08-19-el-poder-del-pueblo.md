@@ -1,5 +1,5 @@
 ---
-datePublished: '2017-04-06T21:03:32.629Z'
+datePublished: '2017-04-06T21:03:32.628Z'
 sourcePath: _posts/2016-08-19-el-poder-del-pueblo.md
 inFeed: true
 hasPage: true
