@@ -6,7 +6,7 @@ description: >-
   de millones de años, es ahora un mundo desierto y helado, según un informe que
   publica Science.
 dateModified: '2017-04-06T21:03:27.809Z'
-datePublished: '2017-04-06T21:03:30.961Z'
+datePublished: '2017-04-06T21:03:30.953Z'
 title: ''
 author: []
 publisher: {}
