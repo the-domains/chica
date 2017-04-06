@@ -1,5 +1,5 @@
 ---
-datePublished: '2017-04-06T21:03:32.879Z'
+datePublished: '2017-04-06T21:03:32.878Z'
 sourcePath: _posts/2016-09-10-i-am-my-hair.md
 inFeed: false
 hasPage: true
