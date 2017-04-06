@@ -79,7 +79,6 @@ content:
         domain: the-grid-user-content.s3-us-west-2.amazonaws.com
       keywords: []
       description: ''
-      inLanguage: !<tag:yaml.org,2002:js/undefined> ''
       app_links: []
       '@context': 'http://schema.org'
       '@type': MediaObject
@@ -88,6 +87,9 @@ content:
     caption: !<tag:yaml.org,2002:js/undefined> ''
     text: !<tag:yaml.org,2002:js/undefined> ''
 description: Transforming the Narrative
-purpose: []
+purpose:
+  - type: contact
+    url: 'tel:4703449945'
+    label: Call 4703449945
 favicon: >-
   https://the-grid-user-content.s3-us-west-2.amazonaws.com/2972a49e-5f32-4c03-96dd-c77bcbc2ee6f.png
