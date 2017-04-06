@@ -54,7 +54,7 @@ description: >-
   del matrimonio o el divorcio están regidos por las comunidades religiosas y no
   por el Estado.
 dateModified: '2017-04-06T21:03:27.809Z'
-datePublished: '2017-04-06T21:03:30.949Z'
+datePublished: '2017-04-06T21:03:30.942Z'
 title: El Líbano logra un pequeño triunfo en la lucha por derechos de las mujeres
 author: []
 publisher: {}
