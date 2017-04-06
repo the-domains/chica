@@ -54,6 +54,10 @@ navigation:
   - name: Voces
     id: 6c11972a-b34f-4a6a-b74a-b197443cf798
     type: content
+  - name: 'Space, Earth & Technology'
+    url: >-
+      http://chica.io/detectan-un-sistema-estelar-cercano-con-siete-planetas-simil
+    type: external
 favicon: >-
   https://the-grid-user-content.s3-us-west-2.amazonaws.com/2972a49e-5f32-4c03-96dd-c77bcbc2ee6f.png
 collections:
