@@ -1,8 +1,8 @@
 ---
 inFeed: true
 description: ''
-dateModified: '2017-04-06T15:34:51.166Z'
-datePublished: '2017-04-06T15:34:51.882Z'
+dateModified: '2017-04-06T15:40:07.950Z'
+datePublished: '2017-04-06T15:40:08.585Z'
 title: Loca Vibes Radio
 author: []
 publisher: {}
@@ -42,12 +42,7 @@ Transmitiendo información sobre las diferentes luchas por la justicia, proyecto
 
 ¡SE HABLA SPANGLISH!
 
-_**About Bruja Rebel & DJ Bembona**_
-
-The _Loca Vibes_ crew are a group of young latino social justice activists
-from different professional & educational backgrounds, coming together from
-our underground studio in Bushwick, Brooklyn to talk about the issues that
-affect our Latino and communities locally and globally.
+_**About Bruja Rebel & DJ Bembona **_The _Loca Vibes_ crew are a group of young latino social justice activists from different professional & educational backgrounds, coming together from our underground studio in Bushwick, Brooklyn to talk about the issues that affect our Latino and communities locally and globally.
 ![Bruja Rebel
 (Producer/ Host/ Music Curator)
 Twitter & Instagram: @DJBembona
