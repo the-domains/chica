@@ -64,7 +64,7 @@ description: >-
   agredida, ayúdenla. Si fuiste acosada, abusada o agredida, reacciona y
   denuncia", clama Carolina Froes tras su agresión.
 dateModified: '2017-04-06T21:03:27.809Z'
-datePublished: '2017-04-06T21:03:30.946Z'
+datePublished: '2017-04-06T21:03:30.940Z'
 title: El machismo toma la calle en carnaval
 author: []
 publisher: {}
