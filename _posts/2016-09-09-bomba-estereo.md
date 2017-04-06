@@ -1,11 +1,11 @@
 ---
-datePublished: '2017-04-06T02:22:11.024Z'
+datePublished: '2017-04-06T02:22:48.498Z'
 sourcePath: _posts/2016-09-09-bomba-estereo.md
 inFeed: false
 hasPage: true
 author: []
 via: {}
-dateModified: '2017-04-06T02:22:08.629Z'
+dateModified: '2017-04-06T02:22:46.902Z'
 title: Bomba Estéreo
 publisher: {}
 description: Entrevista Exclusiva
@@ -100,3 +100,5 @@ En cuanto a la otra mitad de Bomba Estéreo, Simón opina que es un tema esquizo
 "Sólo Tú" Esta resultó una de las primeras canciones que grabaron para este disco "Amanecer". es muy bailable y el sonido rapidísimo, es esa canción que se quiere escuchar en los festivales al aire libre y bailar con los brazos en alto. Tiene tambien algunos instrumentos tradicionales como marimbas y la kalimba, una caja de cuerdas que tambien se conoce como acordeón de mano. Es muy conocidaen Africa y que llegó a América con los esclavos.
 
 "Raiz" Según cuenta Li Saumet, que nació en Santa Marta Colombia los indígenas créen que Sierra Nevada es el corazón de la tierra... y ella opina lo mismo y considera que tiene raíces indígenas, por eso desea que le pongan mucha atención a su interpretación de "Raíz" porque la canta con el corazón.. -"Todos somos un pequeño pedazo de tierra... sólo que algunas veces nos olvidamos. Hay mucha pureza en esta canción". Mientras Simón Mejía opina que "Raíz" es preciosa, y tiene motivos poderosos porque cuando la hizo pensó en su hijo recién nacido. Toda la música de guitarra es suya.... "Me siento muy orgulloso".
+
+---
