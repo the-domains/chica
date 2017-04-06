@@ -1,12 +1,12 @@
 ---
-inFeed: true
+inFeed: false
 description: >-
   A tan solo 40 años luz de la Tierra hay un sistema estelar con siete planetas
   de masa similar al nuestro, tres de los cuales se encuentran en la zona
   habitable y podrían albergar océanos de agua en la superficie, lo que aumenta
   la posibilidad de que ese sistema pudiera acoger vida.
-dateModified: '2017-04-06T01:51:12.774Z'
-datePublished: '2017-04-06T01:51:14.422Z'
+dateModified: '2017-04-06T03:47:41.444Z'
+datePublished: '2017-04-06T03:47:44.302Z'
 title: Detectan un sistema estelar cercano con siete planetas similares a la Tierra
 author: []
 publisher: {}
@@ -17,7 +17,7 @@ sourcePath: >-
 starred: false
 datePublishedOriginal: '2017-02-23T02:24:39.334Z'
 url: detectan-un-sistema-estelar-cercano-con-siete-planetas-simil/index.html
-_type: Article
+_type: Blurb
 
 ---
 # Detectan un sistema estelar cercano con siete planetas similares a la Tierra
@@ -31,6 +31,8 @@ El sistema, localizado por un grupo internacional de astrónomos y cuyo estudio 
 Los seis planetas más cercanos a la estrella, probablemente rocosos, pueden tener una temperatura en la superficie de entre 0 y 100 grados, el rango en el que puede haber agua líquida, y tres de ellos están en la llamada "zona habitable", por lo que son candidatos especialmente prometedores para albergar vida.
 
 Los cuerpos recién descubiertos giran en órbitas planas y ordenadas alrededor de TRAPPIST-1, una estrella enana ultrafría con un brillo cerca de mil veces menor al del Sol.
+
+---
 
 El autor principal del estudio, Michaël Gillon, del Instituto STAR en la Universidad de Lieja (Bélgica) se mostró encantado con los resultados: "Se trata de un sistema planetario sorprendente, no sólo porque hayamos encontrado tantos planetas, ¡sino porque son todos asombrosamente similares en tamaño a la Tierra!", según un comunicado.
 
@@ -47,6 +49,8 @@ Tras una primera fase de "reconocimiento", los científicos planean ahora inicia
 "En unos años sabremos mucho más sobre estos planetas y esperamos saber si hay vida en el plazo de una década", afirmó Triaud.
 
 En 2010, el grupo de investigadores liderado por Gillon, comenzó a escudriñar la vecindad del Sistema Solar con el telescopio robótico TRAPPIST (Telescopio Pequeño para Planetas en Tránsito y Planetesimales), ubicado en Chile.
+
+---
 
 El prometedor descubrimiento inicial de la estrella TRAPPIST-1 permitió a los investigadores enfocar el telescopio espacial Spitzer de la NASA hacia ese punto durante 20 días sin interrupción.
 
