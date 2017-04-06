@@ -5,17 +5,17 @@ description: >-
   parte de su atmósfera, por lo que ese planeta, que pudo tener vida hace miles
   de millones de años, es ahora un mundo desierto y helado, según un informe que
   publica Science.
-dateModified: '2017-04-06T17:56:03.315Z'
-datePublished: '2017-04-06T17:56:03.796Z'
+dateModified: '2017-04-06T21:03:27.809Z'
+datePublished: '2017-04-06T21:03:30.961Z'
 title: ''
 author: []
 publisher: {}
 via: {}
 hasPage: true
-starred: false
-datePublishedOriginal: '2017-04-06T17:56:03.796Z'
 sourcePath: >-
   _posts/2017-04-06-el-viento-solar-y-la-radiacion-son-la-causa-de-que-marte-fue.md
+starred: false
+datePublishedOriginal: '2017-04-06T17:56:03.796Z'
 url: el-viento-solar-y-la-radiacion-son-la-causa-de-que-marte-fue/index.html
 _type: Article
 
