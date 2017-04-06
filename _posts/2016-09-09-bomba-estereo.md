@@ -1,18 +1,18 @@
 ---
-datePublished: '2017-04-06T01:51:16.069Z'
+datePublished: '2017-04-06T02:22:11.024Z'
 sourcePath: _posts/2016-09-09-bomba-estereo.md
-inFeed: true
+inFeed: false
 hasPage: true
 author: []
 via: {}
-dateModified: '2017-04-06T01:51:12.774Z'
+dateModified: '2017-04-06T02:22:08.629Z'
 title: Bomba Estéreo
 publisher: {}
 description: Entrevista Exclusiva
 starred: true
 datePublishedOriginal: '2016-09-14T21:54:05.169Z'
 url: bomba-estereo/index.html
-_type: Article
+_type: Blurb
 
 ---
 ![Bomba Estéreo](https://the-grid-user-content.s3-us-west-2.amazonaws.com/dbe72f8c-655f-412e-8628-03725ec25678.jpg)
@@ -22,6 +22,8 @@ _type: Article
 Entrevista Exclusiva
 
 Por Miriam Fernández-Soberón
+
+---
 
 Bomba Estéreo es un grupo musical de colombia que fusiona la música electrónica, el rock, el reggae y el rap con aires de la región Caribe de su país, como la cumbia y la champeta. Está compuesta por Simón Mejía (dirección, bajo y sintetizadores), Liliana "Li" Saumet (voz), y Julian Salazar (guitarra y sintetizadores). En el año 2006 Bomba Estéreo sacó al mercado su primer trabajo discográfico titulado "Vol 1" con el que contó con la colaboración de MC Liliana "Li" Saumet, quien había cantado algunos de los temas de este proyecto. Con esta colaboración, surgió la relación musical entre Simón y Li que sigue hoy en día.
 
