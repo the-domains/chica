@@ -6,7 +6,7 @@ description: >-
   habitable y podrían albergar océanos de agua en la superficie, lo que aumenta
   la posibilidad de que ese sistema pudiera acoger vida.
 dateModified: '2017-04-06T21:03:27.809Z'
-datePublished: '2017-04-06T21:03:32.823Z'
+datePublished: '2017-04-06T21:03:32.818Z'
 title: Detectan un sistema estelar cercano con siete planetas similares a la Tierra
 author: []
 publisher: {}
