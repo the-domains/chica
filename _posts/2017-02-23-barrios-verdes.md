@@ -7,7 +7,7 @@ description: >-
   partir del sol y el viento, según las tendencias arquitectúnicas de
   vanguardia.
 dateModified: '2017-04-06T21:03:27.809Z'
-datePublished: '2017-04-06T21:03:33.836Z'
+datePublished: '2017-04-06T21:03:33.829Z'
 title: Barrios Verdes
 author: []
 publisher:
