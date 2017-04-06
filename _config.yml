@@ -24,7 +24,7 @@ author:
   url: 'http://chica.io'
 logo: >-
   https://the-grid-user-content.s3-us-west-2.amazonaws.com/b0fc469b-ae58-44ae-967c-33017962fabd.png
-name: CHICA
+name: Transforming the Narrative
 url: 'https://chica.io'
 navigation:
   - name: Musica
@@ -72,7 +72,7 @@ collections:
       number: 10
     permalink:
       path: '/:title/'
-title: Transforming the Narrative
+title: Chica Magazine
 content:
   - id: !<tag:yaml.org,2002:js/undefined> ''
     type: image
