@@ -1,18 +1,19 @@
 ---
-datePublished: '2016-09-21T17:24:19.905Z'
+datePublished: '2017-04-06T02:32:26.639Z'
 sourcePath: _posts/2016-09-10-i-am-my-hair.md
-inFeed: true
+inFeed: false
 hasPage: true
 author:
   - name: ''
 via: {}
-dateModified: '2016-09-21T17:24:19.403Z'
+dateModified: '2017-04-06T02:32:24.941Z'
 title: My hair
 publisher: {}
 description: Valeria Diaz de Leon
 starred: false
+datePublishedOriginal: '2016-09-21T17:24:19.905Z'
 url: i-am-my-hair/index.html
-_type: Article
+_type: Blurb
 
 ---
 ![Rigo Peralta](https://the-grid-user-content.s3-us-west-2.amazonaws.com/7bea45fb-86cd-4416-bf05-b9eb7f076821.jpg)
@@ -20,6 +21,8 @@ _type: Article
 # My hair
 
 Valeria Diaz de Leon
+
+---
 
 As she began to maneuver her hands through my hair, she felt the thickness of what flows out of my head. She shouted, "Oh my gosh, your hair is so thick. We're going to need more bobby pins". Embarrassed, I glanced towards my friends' long, thin, blonde hair, and I stared at myself in the mirror. I am different. Like many Latinas, I went through many struggles of acceptance, of accepting the fact that there is no ideal beauty and that everyone should love and embrace their uniqueness. I was not alone in this journey and I found comfort in Latino literature with authors like Raquel Cepedos, Michelle Serros, and Piri Thomas, they too begin to notice their differences and begin to accept themselves.
 
