@@ -1,15 +1,15 @@
 ---
 inFeed: true
 author: []
-dateModified: '2017-04-06T04:46:18.650Z'
+dateModified: '2017-04-06T15:23:12.636Z'
 via: {}
 title: Loca Vibes Radio
 publisher: {}
 description: 'Hosted by: '
-datePublished: '2017-04-06T04:46:39.126Z'
-starred: false
-datePublishedOriginal: '2017-04-06T04:46:39.126Z'
+datePublished: '2017-04-06T15:23:13.378Z'
 sourcePath: _posts/2017-04-06-loca-vibes-radio.md
+datePublishedOriginal: '2017-04-06T15:23:13.378Z'
+starred: false
 _type: Blurb
 
 ---
