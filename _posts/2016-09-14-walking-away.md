@@ -1,16 +1,17 @@
 ---
-datePublished: '2017-04-06T02:31:30.024Z'
+datePublished: '2017-04-06T02:31:46.088Z'
 sourcePath: _posts/2016-09-14-walking-away.md
-inFeed: true
-hasPage: false
+inFeed: false
+hasPage: true
 author: []
 via: {}
-dateModified: '2017-04-06T02:31:29.369Z'
+dateModified: '2017-04-06T02:31:45.389Z'
 title: Walking Away
 publisher: {}
 description: by Prisca Dorcas Mojica Rodriguez
-datePublishedOriginal: '2017-04-06T02:31:30.024Z'
 starred: false
+datePublishedOriginal: '2017-04-06T02:31:30.024Z'
+url: walking-away/index.html
 _type: Blurb
 
 ---
