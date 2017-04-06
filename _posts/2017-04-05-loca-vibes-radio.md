@@ -1,16 +1,18 @@
 ---
 inFeed: true
 description: ''
-dateModified: '2017-04-06T02:17:34.362Z'
-datePublished: '2017-04-06T02:17:35.254Z'
+dateModified: '2017-04-06T02:20:34.792Z'
+datePublished: '2017-04-06T02:20:35.171Z'
 title: Loca Vibes Radio
 author: []
 publisher: {}
 via: {}
 sourcePath: _posts/2017-04-05-loca-vibes-radio.md
+hasPage: true
 starred: false
 datePublishedOriginal: '2017-04-05T21:46:31.161Z'
-_type: Blurb
+url: loca-vibes-radio/index.html
+_type: Article
 
 ---
 # Loca Vibes Radio
