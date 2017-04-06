@@ -101,8 +101,5 @@ content:
 description: Transforming the Narrative
 purpose:
   - type: contact
-    url: 'tel:4703449945'
-    label: Call 4703449945
-  - type: contact
     url: 'mailto:vanessa@chica.io'
     label: Contact me
