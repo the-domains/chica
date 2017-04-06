@@ -91,5 +91,8 @@ purpose:
   - type: contact
     url: 'tel:4703449945'
     label: Call 4703449945
+  - type: contact
+    url: 'mailto:vanessa@chica.io'
+    label: Contact me
 favicon: >-
   https://the-grid-user-content.s3-us-west-2.amazonaws.com/2972a49e-5f32-4c03-96dd-c77bcbc2ee6f.png
