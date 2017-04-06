@@ -1,9 +1,9 @@
 ---
-datePublished: '2017-04-06T01:51:15.019Z'
-inFeed: true
+datePublished: '2017-04-06T02:32:10.065Z'
+inFeed: false
 author: []
 via: {}
-dateModified: '2017-04-06T01:51:12.774Z'
+dateModified: '2017-04-06T02:32:08.776Z'
 title: Historias… Stories my father told me
 publisher: {}
 description: by Yareliz Mendez-Zamora
@@ -12,7 +12,7 @@ sourcePath: _posts/2016-09-14-historias-stories-my-father-told-me.md
 starred: false
 datePublishedOriginal: '2016-09-14T21:54:25.476Z'
 url: historias-stories-my-father-told-me/index.html
-_type: Article
+_type: Blurb
 
 ---
 ![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/ae5d075a-91ed-4baf-b2fa-37982eb41421.png)
@@ -20,6 +20,8 @@ _type: Article
 ## Historias... Stories my father told me
 
 _by Yareliz Mendez-Zamora_
+
+---
 
 "Once upon a time, there was a man who had a relationship with God like none other. The man prayed, fasted, served in church and worked in the soup kitchen on his days off. He was _that _type of man, the type that dripped sanctity from his pores. God would only have to whisper -a murmur lost in the wind- but the man could hear His voice clearly.
 
