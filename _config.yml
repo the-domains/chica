@@ -1,31 +1,79 @@
-typography_spectrum: 0.09139781
+title: Chica Magazine
+content:
+  - id: !<tag:yaml.org,2002:js/undefined> ''
+    type: image
+    html: >-
+      <img
+      src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/984faf06-71a5-43f7-9e53-d2a0f7264ef1.png">
+    src: >-
+      https://the-grid-user-content.s3-us-west-2.amazonaws.com/984faf06-71a5-43f7-9e53-d2a0f7264ef1.png
+    metadata:
+      author: []
+      datePublished: null
+      keywords: []
+      '@type': MediaObject
+      publisher:
+        favicon: null
+        url: 'https://the-grid-user-content.s3-us-west-2.amazonaws.com'
+        name: The-grid-user-content
+        domain: the-grid-user-content.s3-us-west-2.amazonaws.com
+      description: ''
+      related: []
+      app_links: []
+      '@context': 'http://schema.org'
+    title: !<tag:yaml.org,2002:js/undefined> ''
+    caption: !<tag:yaml.org,2002:js/undefined> ''
+    text: !<tag:yaml.org,2002:js/undefined> ''
+  - id: !<tag:yaml.org,2002:js/undefined> ''
+    type: image
+    html: >-
+      <img
+      src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/309768ed-664e-4824-839b-5594807d70e0.jpg">
+    src: >-
+      https://the-grid-user-content.s3-us-west-2.amazonaws.com/309768ed-664e-4824-839b-5594807d70e0.jpg
+    metadata:
+      author: []
+      datePublished: null
+      keywords: []
+      '@type': MediaObject
+      publisher:
+        favicon: null
+        url: 'https://the-grid-user-content.s3-us-west-2.amazonaws.com'
+        name: The-grid-user-content
+        domain: the-grid-user-content.s3-us-west-2.amazonaws.com
+      description: ''
+      related: []
+      app_links: []
+      '@context': 'http://schema.org'
+    title: !<tag:yaml.org,2002:js/undefined> ''
+    caption: !<tag:yaml.org,2002:js/undefined> ''
+    text: !<tag:yaml.org,2002:js/undefined> ''
+github: true
+purpose: []
+collections:
+  - index:
+      path: /
+      number: 15
+      paginate: true
+      navigable: true
+    permalink:
+      path: '/:title/'
+    feed:
+      path: /rss.xml
+      format: rss
+      number: 10
+description: Transforming the Narrative
 color:
   saturation: 0.5427669731499905
   brandStrength: 0.9767025
-  lightness: 0.1110393122556887
+  rhythmicContrast: 0.6147438226658667
   brandColors:
     - '#F9FAE8'
     - '#053A5A'
     - '#EC578E'
     - '#6BC6BF'
     - '#6D4571'
-  rhythmicContrast: 0.6147438226658667
-github: true
-opengraph:
-  image: >-
-    https://the-grid-user-content.s3-us-west-2.amazonaws.com/3b37b3cd-17aa-443e-baa6-e15c394205ee.jpg
-  appId: chicamag
-layout_spectrum: 1
-analytics:
-  google: UA-96790026-1
-author:
-  email: vanessa@chica.io
-  name: Vanessa Smith
-  url: 'http://chica.io'
-logo: >-
-  https://the-grid-user-content.s3-us-west-2.amazonaws.com/b0fc469b-ae58-44ae-967c-33017962fabd.png
-name: Transforming the Narrative
-url: 'https://chica.io'
+  lightness: 0.1110393122556887
 navigation:
   - name: Musica
     id: f75f27a8-a2db-4f0c-bc66-2c57a57bcdbd
@@ -58,70 +106,21 @@ navigation:
     url: >-
       http://chica.io/detectan-un-sistema-estelar-cercano-con-siete-planetas-simil
     type: external
+analytics:
+  google: UA-96790026-1
+name: Transforming the Narrative
+author:
+  email: vanessa@chica.io
+  name: Vanessa Smith
+  url: 'http://chica.io'
 favicon: >-
   https://the-grid-user-content.s3-us-west-2.amazonaws.com/2972a49e-5f32-4c03-96dd-c77bcbc2ee6f.png
-collections:
-  - index:
-      path: /
-      number: 15
-      paginate: true
-      navigable: true
-    feed:
-      path: /rss.xml
-      format: rss
-      number: 10
-    permalink:
-      path: '/:title/'
-title: Chica Magazine
-content:
-  - id: !<tag:yaml.org,2002:js/undefined> ''
-    type: image
-    html: >-
-      <img
-      src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/984faf06-71a5-43f7-9e53-d2a0f7264ef1.png">
-    src: >-
-      https://the-grid-user-content.s3-us-west-2.amazonaws.com/984faf06-71a5-43f7-9e53-d2a0f7264ef1.png
-    metadata:
-      author: []
-      related: []
-      publisher:
-        url: 'https://the-grid-user-content.s3-us-west-2.amazonaws.com'
-        name: The-grid-user-content
-        favicon: null
-        domain: the-grid-user-content.s3-us-west-2.amazonaws.com
-      keywords: []
-      description: ''
-      app_links: []
-      '@context': 'http://schema.org'
-      '@type': MediaObject
-      datePublished: null
-    title: !<tag:yaml.org,2002:js/undefined> ''
-    caption: !<tag:yaml.org,2002:js/undefined> ''
-    text: !<tag:yaml.org,2002:js/undefined> ''
-  - id: !<tag:yaml.org,2002:js/undefined> ''
-    type: image
-    html: >-
-      <img
-      src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/309768ed-664e-4824-839b-5594807d70e0.jpg">
-    src: >-
-      https://the-grid-user-content.s3-us-west-2.amazonaws.com/309768ed-664e-4824-839b-5594807d70e0.jpg
-    metadata:
-      author: []
-      related: []
-      publisher:
-        url: 'https://the-grid-user-content.s3-us-west-2.amazonaws.com'
-        name: The-grid-user-content
-        favicon: null
-        domain: the-grid-user-content.s3-us-west-2.amazonaws.com
-      keywords: []
-      description: ''
-      inLanguage: !<tag:yaml.org,2002:js/undefined> ''
-      app_links: []
-      '@context': 'http://schema.org'
-      '@type': MediaObject
-      datePublished: null
-    title: !<tag:yaml.org,2002:js/undefined> ''
-    caption: !<tag:yaml.org,2002:js/undefined> ''
-    text: !<tag:yaml.org,2002:js/undefined> ''
-description: Transforming the Narrative
-purpose: []
+opengraph:
+  image: >-
+    https://the-grid-user-content.s3-us-west-2.amazonaws.com/3b37b3cd-17aa-443e-baa6-e15c394205ee.jpg
+  appId: chicamag
+logo: >-
+  https://the-grid-user-content.s3-us-west-2.amazonaws.com/b0fc469b-ae58-44ae-967c-33017962fabd.png
+typography_spectrum: 0.09139781
+layout_spectrum: 0.8548387
+url: 'https://chica.io'
