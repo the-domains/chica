@@ -63,8 +63,8 @@ description: >-
   juntas. Este texto es un pedido: si ven a alguien siendo acosada, abusada o
   agredida, ayúdenla. Si fuiste acosada, abusada o agredida, reacciona y
   denuncia", clama Carolina Froes tras su agresión.
-dateModified: '2017-04-06T01:51:12.774Z'
-datePublished: '2017-04-06T01:51:14.411Z'
+dateModified: '2017-04-06T21:03:27.809Z'
+datePublished: '2017-04-06T21:03:30.946Z'
 title: El machismo toma la calle en carnaval
 author: []
 publisher: {}
