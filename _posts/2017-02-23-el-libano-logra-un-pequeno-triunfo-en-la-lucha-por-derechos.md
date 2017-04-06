@@ -53,8 +53,8 @@ description: >-
   herencia, mientras que otros aspectos de derechos civiles, como la anulación
   del matrimonio o el divorcio están regidos por las comunidades religiosas y no
   por el Estado.
-dateModified: '2017-04-05T02:59:08.005Z'
-datePublished: '2017-04-05T02:59:08.482Z'
+dateModified: '2017-04-06T01:51:12.774Z'
+datePublished: '2017-04-06T01:51:14.415Z'
 title: El Líbano logra un pequeño triunfo en la lucha por derechos de las mujeres
 author: []
 publisher: {}
