@@ -15,7 +15,7 @@ description: >-
   I carried that would never allow that to happen. Instead I tried to keep my
   skin tone as light as possible by staying out of the sun during the summer and
   never going outside unless I'm covered from head to toe.
-datePublished: '2017-04-06T21:03:33.774Z'
+datePublished: '2017-04-06T21:03:33.768Z'
 sourcePath: >-
   _posts/2017-04-05-ive-lost-count-of-the-many-times-my-mother-has-lamented-the.md
 hasPage: true
