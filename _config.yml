@@ -48,6 +48,11 @@ navigation:
   - name: Música
     id: f8c3d3f3-5545-452b-929b-c0653e0af85f
     type: content
+  - name: Loca Vibes
+    id: 3468409f-bfef-4b94-9fc9-48482d06d498
+    type: content
+favicon: >-
+  https://the-grid-user-content.s3-us-west-2.amazonaws.com/2972a49e-5f32-4c03-96dd-c77bcbc2ee6f.png
 collections:
   - index:
       path: /
@@ -70,19 +75,19 @@ content:
     src: >-
       https://the-grid-user-content.s3-us-west-2.amazonaws.com/4a55263a-e025-4535-a0ce-c672ad78db8c.png
     metadata:
-      author: []
+      datePublished: null
+      keywords: []
       related: []
+      author: []
+      '@context': 'http://schema.org'
+      '@type': MediaObject
+      app_links: []
       publisher:
         url: 'https://the-grid-user-content.s3-us-west-2.amazonaws.com'
         name: The-grid-user-content
         favicon: null
         domain: the-grid-user-content.s3-us-west-2.amazonaws.com
-      keywords: []
       description: ''
-      app_links: []
-      '@context': 'http://schema.org'
-      '@type': MediaObject
-      datePublished: null
     title: !<tag:yaml.org,2002:js/undefined> ''
     caption: !<tag:yaml.org,2002:js/undefined> ''
     text: !<tag:yaml.org,2002:js/undefined> ''
@@ -94,5 +99,3 @@ purpose:
   - type: contact
     url: 'mailto:vanessa@chica.io'
     label: Contact me
-favicon: >-
-  https://the-grid-user-content.s3-us-west-2.amazonaws.com/2972a49e-5f32-4c03-96dd-c77bcbc2ee6f.png
