@@ -78,81 +78,9 @@ content:
     type: image
     html: >-
       <img
-      src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/b5c3d813-98ff-46d9-a594-6c4b69e22fe9.jpg">
+      src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/984faf06-71a5-43f7-9e53-d2a0f7264ef1.png">
     src: >-
-      https://the-grid-user-content.s3-us-west-2.amazonaws.com/b5c3d813-98ff-46d9-a594-6c4b69e22fe9.jpg
-    metadata:
-      author: []
-      related: []
-      publisher:
-        url: 'https://the-grid-user-content.s3-us-west-2.amazonaws.com'
-        name: The-grid-user-content
-        favicon: null
-        domain: the-grid-user-content.s3-us-west-2.amazonaws.com
-      keywords: []
-      description: ''
-      app_links: []
-      '@context': 'http://schema.org'
-      '@type': MediaObject
-      datePublished: null
-    title: !<tag:yaml.org,2002:js/undefined> ''
-    caption: !<tag:yaml.org,2002:js/undefined> ''
-    text: !<tag:yaml.org,2002:js/undefined> ''
-  - id: !<tag:yaml.org,2002:js/undefined> ''
-    type: image
-    html: >-
-      <img
-      src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/7866c62a-7248-46b9-8e70-0c560885c967.png">
-    src: >-
-      https://the-grid-user-content.s3-us-west-2.amazonaws.com/7866c62a-7248-46b9-8e70-0c560885c967.png
-    metadata:
-      author: []
-      related: []
-      publisher:
-        url: 'https://the-grid-user-content.s3-us-west-2.amazonaws.com'
-        name: The-grid-user-content
-        favicon: null
-        domain: the-grid-user-content.s3-us-west-2.amazonaws.com
-      keywords: []
-      description: ''
-      app_links: []
-      '@context': 'http://schema.org'
-      '@type': MediaObject
-      datePublished: null
-    title: !<tag:yaml.org,2002:js/undefined> ''
-    caption: !<tag:yaml.org,2002:js/undefined> ''
-    text: !<tag:yaml.org,2002:js/undefined> ''
-  - id: !<tag:yaml.org,2002:js/undefined> ''
-    type: image
-    html: >-
-      <img
-      src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/7d3203e6-c3bb-4ff2-a60b-def6e695f739.png">
-    src: >-
-      https://the-grid-user-content.s3-us-west-2.amazonaws.com/7d3203e6-c3bb-4ff2-a60b-def6e695f739.png
-    metadata:
-      author: []
-      related: []
-      publisher:
-        url: 'https://the-grid-user-content.s3-us-west-2.amazonaws.com'
-        name: The-grid-user-content
-        favicon: null
-        domain: the-grid-user-content.s3-us-west-2.amazonaws.com
-      keywords: []
-      description: ''
-      app_links: []
-      '@context': 'http://schema.org'
-      '@type': MediaObject
-      datePublished: null
-    title: !<tag:yaml.org,2002:js/undefined> ''
-    caption: !<tag:yaml.org,2002:js/undefined> ''
-    text: !<tag:yaml.org,2002:js/undefined> ''
-  - id: !<tag:yaml.org,2002:js/undefined> ''
-    type: image
-    html: >-
-      <img
-      src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/53e30541-b706-49b8-8864-94834d8cce00.png">
-    src: >-
-      https://the-grid-user-content.s3-us-west-2.amazonaws.com/53e30541-b706-49b8-8864-94834d8cce00.png
+      https://the-grid-user-content.s3-us-west-2.amazonaws.com/984faf06-71a5-43f7-9e53-d2a0f7264ef1.png
     metadata:
       author: []
       related: []
