@@ -1,7 +1,7 @@
 ---
-inFeed: true
+inFeed: false
 author: []
-dateModified: '2017-04-06T02:56:09.539Z'
+dateModified: '2017-04-06T03:48:54.138Z'
 via: {}
 title: '"Tu Afro No Cabe en la Foto"'
 publisher: {}
@@ -15,20 +15,22 @@ description: >-
   I carried that would never allow that to happen. Instead I tried to keep my
   skin tone as light as possible by staying out of the sun during the summer and
   never going outside unless I'm covered from head to toe.
-datePublished: '2017-04-06T02:56:10.658Z'
+datePublished: '2017-04-06T03:48:56.234Z'
 sourcePath: >-
   _posts/2017-04-05-ive-lost-count-of-the-many-times-my-mother-has-lamented-the.md
 hasPage: true
 starred: false
 datePublishedOriginal: '2017-04-05T22:35:21.331Z'
 url: tu-afro-no-cabe-en-la-foto/index.html
-_type: Article
+_type: Blurb
 
 ---
 ![
 by Alex Guerrero (2015) (Paper, 22” by 30”) Exhibited at La Lucha: Dominican Republic and Haiti, One Island.](https://the-grid-user-content.s3-us-west-2.amazonaws.com/7d38756e-d7e4-453c-a89e-e911c33f69a1.png)
 
 I've lost count of the many times my mother has lamented the fact that I've inherited her tan skin. She sighs out loud, running her fingers through my hair and tells my father "why couldn't you have given me a fair-skinned daughter, like you?" I'm 11 years old and begin plotting ways to make a white boy fall in love with me and marry me in order to increase the chances of having a white baby; I cursed the strong and dominant Indigenous/African blood I carried that would never allow that to happen. Instead I tried to keep my skin tone as light as possible by staying out of the sun during the summer and never going outside unless I'm covered from head to toe.
+
+---
 
 She tells me I have my father's nose in a tone that lets me know she feels sorry for me, but also feels sorry for herself- disappointed that I didn't inherit her small button nose instead. She says this with pride, turning her head to the side in order to show me her beautiful profile. I run to the bathroom and pinch my nose in different places until I see hers; 'how can I keep it this way, permanently?', I ask myself.
 
