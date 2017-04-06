@@ -5,8 +5,8 @@ description: >-
   historia, un calor que aumentó la temperatura del planeta y que en gran parte
   fue absorbido por los océanos. Este hecho, unido a la sobrepesca, amenazan la
   riqueza marina sobre todo en las regiones ecuatoriales y en los polos.
-dateModified: '2017-04-06T03:50:38.898Z'
-datePublished: '2017-04-06T03:50:40.186Z'
+dateModified: '2017-04-06T21:03:27.809Z'
+datePublished: '2017-04-06T21:03:32.783Z'
 title: Calentamiento global y sobrepesca amenazan la vida marina en polos y trópico
 author: []
 publisher: {}
