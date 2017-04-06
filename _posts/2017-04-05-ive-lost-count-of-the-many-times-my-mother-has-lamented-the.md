@@ -1,9 +1,9 @@
 ---
 inFeed: true
 author: []
-dateModified: '2017-04-05T22:35:07.526Z'
+dateModified: '2017-04-06T02:56:09.539Z'
 via: {}
-title: ''
+title: '"Tu Afro No Cabe en la Foto"'
 publisher: {}
 description: >-
   I've lost count of the many times my mother has lamented the fact that I've
@@ -15,29 +15,36 @@ description: >-
   I carried that would never allow that to happen. Instead I tried to keep my
   skin tone as light as possible by staying out of the sun during the summer and
   never going outside unless I'm covered from head to toe.
-datePublished: '2017-04-05T22:35:21.331Z'
-starred: false
-datePublishedOriginal: '2017-04-05T22:35:21.331Z'
+datePublished: '2017-04-06T02:56:10.658Z'
 sourcePath: >-
   _posts/2017-04-05-ive-lost-count-of-the-many-times-my-mother-has-lamented-the.md
-_type: Blurb
+hasPage: true
+starred: false
+datePublishedOriginal: '2017-04-05T22:35:21.331Z'
+url: tu-afro-no-cabe-en-la-foto/index.html
+_type: Article
 
 ---
+![
+by Alex Guerrero (2015) (Paper, 22” by 30”) Exhibited at La Lucha: Dominican Republic and Haiti, One Island.](https://the-grid-user-content.s3-us-west-2.amazonaws.com/7d38756e-d7e4-453c-a89e-e911c33f69a1.png)
+
 I've lost count of the many times my mother has lamented the fact that I've inherited her tan skin. She sighs out loud, running her fingers through my hair and tells my father "why couldn't you have given me a fair-skinned daughter, like you?" I'm 11 years old and begin plotting ways to make a white boy fall in love with me and marry me in order to increase the chances of having a white baby; I cursed the strong and dominant Indigenous/African blood I carried that would never allow that to happen. Instead I tried to keep my skin tone as light as possible by staying out of the sun during the summer and never going outside unless I'm covered from head to toe.
 
-She tells me I have my father's nose in a tone that lets me know she feels sorry for me, but also feels sorry for herself- disappointed that I didn't inherit her small button nose instead. She says this with pride, turning her head to the side in order to show me her beautiful profile. I run to the bathroom and pinch my nose in different places until I see hers; 'how can I keep it this way, permanently?', I ask myself. 
+She tells me I have my father's nose in a tone that lets me know she feels sorry for me, but also feels sorry for herself- disappointed that I didn't inherit her small button nose instead. She says this with pride, turning her head to the side in order to show me her beautiful profile. I run to the bathroom and pinch my nose in different places until I see hers; 'how can I keep it this way, permanently?', I ask myself.
 
 I'm 16 years old and dream of getting a nose job so that I can look more like her.
 
 I recently asked her when her obsession with white skin and white features began and she tells me it was about the day she got her first doll. A white baby doll with blue eyes and blonde ringlets, and she remembers imagining that the doll was real, that she truly had a white daughter. For the past 20 years, my mother has worked as a nanny, working mostly with with rich, white families in rich, white neighborhoods taking care of their rich, white daughters and sons. I tell her that her fantasy and dream has come true in a way, that at work she is able to hold and care for a real life white baby doll. She smiles and changes the subject while I'm left with the lingering thought that a stranger's baby could possibly bring her more joy than I ever could.
 
-As a child my mother sung me a lullaby called "Negrita Cucurumbe" which tells the story of a young Afro-Latina girl who goes to the sea to wash herself over and over, as if to scrub her dark skin off. The narrator of the song tells us that she dreams of being white, like the seashells and sea foam, like the moon itself, until a fish comes up to her and reassures her she's beautiful the way she is. I ask myself who my mother was trying to convince more by singing this song, herself or me? I type in the title of the song on You Tube only to find that its been sung by many artists and trios since the 60's and is well known across Latin America. People sharing comments of their own stories, their mothers and grandmothers singing this song to them when they were children. 
+As a child my mother sung me a lullaby called "Negrita Cucurumbe" which tells the story of a young Afro-Latina girl who goes to the sea to wash herself over and over, as if to scrub her dark skin off. The narrator of the song tells us that she dreams of being white, like the seashells and sea foam, like the moon itself, until a fish comes up to her and reassures her she's beautiful the way she is. I ask myself who my mother was trying to convince more by singing this song, herself or me? I type in the title of the song on You Tube only to find that its been sung by many artists and trios since the 60's and is well known across Latin America. People sharing comments of their own stories, their mothers and grandmothers singing this song to them when they were children.
 
 I read one simple comment:
 
 > "This brings back great memories" 
 
-Then I thought back to the times when I was told I was looking too _negra_ by family members, the disgust in their hot breaths permeating the air. 
+---
+
+Then I thought back to the times when I was told I was looking too _negra_ by family members, the disgust in their hot breaths permeating the air.
 
 In winters, I would place my arm next to my father's after another year of avoiding the sun, and realizing I _still_ wasn't as pale as him. Those were memorable moments.
 
@@ -45,7 +52,7 @@ I want to get this off my chest, finally: the notion that having white skin auto
 
 Watching TV I feel as if all I see are white faces; white actresses in white roles living in white communities working in white workplaces chatting with white co-workers. In white American media, the only time I encounter portrayals of people who look like me are the maids, janitors, gardeners, the ubiquitous and anonymous "thugs" in "sketchy" neighborhoods, the stock inmates in prison or jail scenes, with the quintessential facial gang tattoos and Spanglish mannerisms. When I've tried Spanish language media channels, in an attempt to find a home and some sense of familiarity.These networks are supposed to cater to audiences like me, after all, created for people like me... or so I thought.
 
-I'm peppered with white, blue-eyed Latino news anchors in their Gucci suits, in their homogenous anchor stale commentary; piquéd enunciations, the telltale sign of their white universities, cookies from the cookie cutter. Fulfilling their jobs in informing me about the rise in cartel-related violence in Mexico and Central America, about the migrant worker's plight, about the forgotten children in immigration detention centers sprinkled across the Southern border, the irony of their apathy does not escape me. In telenovelas, I'm sprinkled with even more white fantasies; white,rich educated Latinos, their brand of colorism in culturally appropriated multifaceted complex web of story arcs, glamorous hair and wardrobe. 
+I'm peppered with white, blue-eyed Latino news anchors in their Gucci suits, in their homogenous anchor stale commentary; piquéd enunciations, the telltale sign of their white universities, cookies from the cookie cutter. Fulfilling their jobs in informing me about the rise in cartel-related violence in Mexico and Central America, about the migrant worker's plight, about the forgotten children in immigration detention centers sprinkled across the Southern border, the irony of their apathy does not escape me. In telenovelas, I'm sprinkled with even more white fantasies; white,rich educated Latinos, their brand of colorism in culturally appropriated multifaceted complex web of story arcs, glamorous hair and wardrobe.
 
 Indigenous and Afro-Latino actors rarely make it to the opening credits, their characters just minions to their praotagonist counterparts- appearing meekly as housemaids, farm hands or in more important roles, as town drunks lucky to make it into a scene every two or three episode.
 
