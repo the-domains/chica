@@ -99,7 +99,4 @@ content:
     caption: !<tag:yaml.org,2002:js/undefined> ''
     text: !<tag:yaml.org,2002:js/undefined> ''
 description: Transforming the Narrative
-purpose:
-  - type: contact
-    url: 'mailto:vanessa@chica.io'
-    label: Contact me
+purpose: []
