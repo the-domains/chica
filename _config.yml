@@ -60,7 +60,7 @@ collections:
       number: 10
     permalink:
       path: '/:title/'
-title: Chica
+title: Transforming the Narrative
 content:
   - id: !<tag:yaml.org,2002:js/undefined> ''
     type: image
