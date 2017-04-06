@@ -1,8 +1,8 @@
 ---
 inFeed: true
-description: 'Friday y Diego '
-dateModified: '2017-04-06T01:51:12.774Z'
-datePublished: '2017-04-06T01:51:14.419Z'
+description: Friday y Diego
+dateModified: '2017-04-06T03:58:33.497Z'
+datePublished: '2017-04-06T03:58:34.153Z'
 title: ''
 author: []
 publisher: {}
@@ -15,8 +15,8 @@ url: friday-y-diego/index.html
 _type: Article
 
 ---
-Friday y Diego 
+Friday y Diego
 
 Rare video
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/uCNZoz9E24o" frameborder="0" allowfullscreen\></iframe\>
+<iframe src="https://the-grid.github.io/ed-userhtml/?g=eJwlzUEOwiAQAMCvkH1AV6010ZReTK8-wFuBrZBA18ASoq_X6AdmxrDmJZFqwYnXMJx2oDyFhxcN_X4AVbLV4EWe5YLYWuteXKUa6iwnpGTIYb3e7vw-z4cjg_pxhrOjrOGLLTFyW2uMxWaibRrxP04fwREpnw" height="244" style=""></iframe>
