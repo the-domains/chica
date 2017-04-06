@@ -3,7 +3,7 @@ description: >-
   La red social Weibo, equivalente chino a Twitter, ha bloqueado la cuenta de
   una conocida organización feminista, Voces Feministas, según denunciaron hoy
   varias activistas a través de sus perfiles en redes sociales.
-datePublished: '2017-04-06T21:03:31.627Z'
+datePublished: '2017-04-06T21:03:31.633Z'
 author: []
 via: {}
 sourcePath: >-
