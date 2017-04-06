@@ -4,15 +4,23 @@
         <description><![CDATA[Chica Magazine]]></description>
         <link>http://chica.io/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Thu, 06 Apr 2017 19:55:03 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 06 Apr 2017 21:04:57 GMT</lastBuildDate>
         <atom:link href="http://chica.io/rss.xml" rel="self" type="application/rss+xml"/>
-        <pubDate>Thu, 06 Apr 2017 19:54:52 GMT</pubDate>
+        <pubDate>Thu, 06 Apr 2017 21:04:05 GMT</pubDate>
         <item>
             <title><![CDATA[Latinx in the Environmental Movement]]></title>
             <description><![CDATA[<h2>Latinx in the Environmental Movement</h2>,<img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/8d12cb0b-442b-4d0d-8fef-c3c32db5f830.jpg">]]></description>
             <link>http://chica.io/latinx-in-the-environmental-movement/index.html</link>
             <guid isPermaLink="false">37e00273-16d0-452c-a0d7-e05acd8f3a45</guid>
             <pubDate>Wed, 14 Sep 2016 21:54:05 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA["Tu Afro No Cabe en la Foto"]]></title>
+            <description><![CDATA[<img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/7d38756e-d7e4-453c-a89e-e911c33f69a1.png" title="&quot;Tu Afro No Cabe en la Foto&quot;" alt="
+by Alex Guerrero (2015) (Paper, 22&rdquo; by 30&rdquo;) Exhibited at La Lucha: Dominican Republic and Haiti, One Island.">,<p>I've lost count of the many times my mother has lamented the fact that I've inherited her tan skin. She sighs out loud, running her fingers through my hair and tells my father “why couldn't you have given me a fair-skinned daughter, like you?” I'm 11 years old and begin plotting ways to make a white boy fall in love with me and marry me in order to increase the chances of having a white baby; I cursed the strong and dominant Indigenous/African blood I carried that would never allow that to happen. Instead I tried to keep my skin tone as light as possible by staying out of the sun during the summer and never going outside unless I'm covered from head to toe.</p>]]></description>
+            <link>http://chica.io/tu-afro-no-cabe-en-la-foto/index.html</link>
+            <guid isPermaLink="false">268709fe-3b56-4149-8cab-3264fd5ae6a8</guid>
+            <pubDate>Wed, 05 Apr 2017 22:35:21 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[No title]]></title>
@@ -69,13 +77,6 @@
             <link>http://chica.io/machismo/index.html</link>
             <guid isPermaLink="false">6c11972a-b34f-4a6a-b74a-b197443cf798</guid>
             <pubDate>Sat, 10 Sep 2016 08:02:28 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[No title]]></title>
-            <description><![CDATA[<p>Friday y Diego</p>,<p>Rare video</p>,<iframe src="https://the-grid.github.io/ed-userhtml/?g=eJwlzUEOwiAQAMCvkH1AV6010ZReTK8-wFuBrZBA18ASoq_X6AdmxrDmJZFqwYnXMJx2oDyFhxcN_X4AVbLV4EWe5YLYWuteXKUa6iwnpGTIYb3e7vw-z4cjg_pxhrOjrOGLLTFyW2uMxWaibRrxP04fwREpnw" height="244"></iframe>]]></description>
-            <link>http://chica.io/friday-y-diego/index.html</link>
-            <guid isPermaLink="false">9dc187e1-244c-4197-b5e1-c567be8d0e83</guid>
-            <pubDate>Wed, 05 Apr 2017 19:17:30 GMT</pubDate>
         </item>
     </channel>
 </rss>
