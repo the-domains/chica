@@ -1,12 +1,12 @@
 ---
-datePublished: '2017-04-06T02:32:26.639Z'
+datePublished: '2017-04-06T21:03:32.879Z'
 sourcePath: _posts/2016-09-10-i-am-my-hair.md
 inFeed: false
 hasPage: true
 author:
   - name: ''
 via: {}
-dateModified: '2017-04-06T02:32:24.941Z'
+dateModified: '2017-04-06T21:03:27.809Z'
 title: My hair
 publisher: {}
 description: Valeria Diaz de Leon
