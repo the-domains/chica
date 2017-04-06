@@ -1,8 +1,8 @@
 ---
 inFeed: true
 description: ''
-dateModified: '2017-04-06T15:40:07.950Z'
-datePublished: '2017-04-06T15:40:08.585Z'
+dateModified: '2017-04-06T15:49:20.940Z'
+datePublished: '2017-04-06T15:49:21.992Z'
 title: Loca Vibes Radio
 author: []
 publisher: {}
@@ -49,3 +49,23 @@ Twitter & Instagram: @DJBembona
 Bruja Rebel & DJ Bembona‘s Social Media
 
 ](https://the-grid-user-content.s3-us-west-2.amazonaws.com/95c3d28b-687c-4ef0-af2c-a572b2b121af.jpg)
+
+### _Ankalli is an Afro-Andina punk & radical muse that grew up in Brooklyn, NYC and works on various social justice projects as an Activist, Mujerista, Anti-Displacement & Immigrant Rights Advocate & is the founder/ producer and host of Loca Vibes Radio._
+![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/0910cc9a-a4d1-411e-a981-9d58a793a2a2.png)
+![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/9a337ae7-0c13-4614-8751-29d0945bb195.png)
+
+Twitter & Instagram: [@BrujaRebel][0]
+
+### DJ Bembona (Audio Engineer/ Co-Host/ Music Curator)  
+Negrita con Tumbao! Xiomara is an up-and-coming AfroLatinx DJ and party-promoter from Brooklyn, mixing Afro-Carribean tropical beats at shows in various venues all over NYC.
+
+Twitter & Instagram: [@DJBembona][1]
+
+Bruja Rebel & DJ Bembona's Social Media
+
+<iframe src="https://the-grid.github.io/ed-userhtml/?g=eJzLKCkpsNLXL0pMycxPK0pNTSrKz8_OqczTS87P1S_ISaxMLYJSehkluTkAsloSQg" height="244" style=""></iframe>
+
+
+
+[0]: https://twitter.com/BrujaRebel
+[1]: https://twitter.com/DJBembona
