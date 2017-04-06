@@ -5,8 +5,8 @@ description: >-
   de masa similar al nuestro, tres de los cuales se encuentran en la zona
   habitable y podrían albergar océanos de agua en la superficie, lo que aumenta
   la posibilidad de que ese sistema pudiera acoger vida.
-dateModified: '2017-04-05T20:14:56.194Z'
-datePublished: '2017-04-05T20:14:58.131Z'
+dateModified: '2017-04-06T01:51:12.774Z'
+datePublished: '2017-04-06T01:51:14.422Z'
 title: Detectan un sistema estelar cercano con siete planetas similares a la Tierra
 author: []
 publisher: {}
