@@ -1,11 +1,11 @@
 ---
-datePublished: '2017-04-06T02:22:48.498Z'
+datePublished: '2017-04-06T15:57:18.317Z'
 sourcePath: _posts/2016-09-09-bomba-estereo.md
 inFeed: false
 hasPage: true
 author: []
 via: {}
-dateModified: '2017-04-06T02:22:46.902Z'
+dateModified: '2017-04-06T15:57:17.568Z'
 title: Bomba Estéreo
 publisher: {}
 description: Entrevista Exclusiva
