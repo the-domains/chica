@@ -1,11 +1,11 @@
 ---
-datePublished: '2017-04-06T01:51:14.985Z'
+datePublished: '2017-04-06T15:57:18.302Z'
 sourcePath: _posts/2016-09-21-another-ecuador-la-quinta-bruja.md
 inFeed: true
 hasPage: true
 author: []
 via: {}
-dateModified: '2017-04-06T01:51:12.774Z'
+dateModified: '2017-04-06T15:57:17.568Z'
 title: 'Another Ecuador: La Quinta Bruja'
 publisher: {}
 description: ' by Bani Amor'
