@@ -1,12 +1,12 @@
 ---
-inFeed: true
+inFeed: false
 description: >-
   (EFE).- El calentamiento global hizo que 2016 fuera el año más caluroso de la
   historia, un calor que aumentó la temperatura del planeta y que en gran parte
   fue absorbido por los océanos. Este hecho, unido a la sobrepesca, amenazan la
   riqueza marina sobre todo en las regiones ecuatoriales y en los polos.
-dateModified: '2017-04-05T20:15:19.786Z'
-datePublished: '2017-04-05T20:15:20.951Z'
+dateModified: '2017-04-06T03:49:38.569Z'
+datePublished: '2017-04-06T03:49:40.203Z'
 title: Calentamiento global y sobrepesca amenazan la vida marina en polos y trópico
 author: []
 publisher: {}
@@ -17,7 +17,7 @@ hasPage: true
 starred: false
 datePublishedOriginal: '2017-02-22T20:40:38.248Z'
 url: calentamiento-global-y-sobrepesca-amenazan-la-vida-marina-en/index.html
-_type: Article
+_type: Blurb
 
 ---
 # Calentamiento global y sobrepesca amenazan la vida marina en polos y trópico
